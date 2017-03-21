@@ -23,10 +23,10 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"gomix.ico",
-"https://gomix.com",
-"Gomix",
-"Gomix is a Cloud based Node environment"
+"glitch.ico",
+"https://glitch.com",
+"Glitch",
+"Glitch is a Cloud based Node environment"
 );
 APP.model.add(data);
 
