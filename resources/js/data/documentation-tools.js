@@ -46,4 +46,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"lumio.ico",
+"https://www.lumioapp.com/",
+"Lumio",
+"Highlight, organize and share ideas."
+);
+APP.model.add(data);
+
 })();
