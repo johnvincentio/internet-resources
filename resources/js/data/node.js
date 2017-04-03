@@ -40,6 +40,22 @@ APP.model.add(data);
 
 APP.data.addItem(data,
 "github.png",
+"https://github.com/expressjs/body-parser",
+"ExpressJS Body Parser",
+"Node.js body parsing middleware."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"github.png",
+"https://github.com/expressjs/morgan",
+"Morgan",
+"HTTP request logger middleware for node.js"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"github.png",
 "https://github.com/winstonjs/winston",
 "Winston Logging Library",
 "A multi-transport async logging library for node.js"
