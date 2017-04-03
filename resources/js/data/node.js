@@ -63,10 +63,18 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"expressjs.png",
+"nodemailer.ico",
 "https://nodemailer.com/",
 "Nodemailer",
 "Send emails"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"github.png",
+"https://github.com/remy/nodemon",
+"Nodemon",
+"Automatically restart your node application on code changed"
 );
 APP.model.add(data);
 
