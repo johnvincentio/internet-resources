@@ -16,7 +16,7 @@ APP.model.add(data);
 
 APP.data.addItem(data,
 "mongoChef.png",
-"http://3t.io/mongochef/",
+"https://studio3t.com/",
 "MongoChef",
 "MongoDB GUI"
 );
