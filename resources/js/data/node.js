@@ -103,6 +103,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+"npmjs.png",
+"https://www.npmjs.com/package/Faker",
+"Faker",
+"Fake data for integration testing"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
 "passportjs.png",
 "http://passportjs.org/",
 "Passport",
