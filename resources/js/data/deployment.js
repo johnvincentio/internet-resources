@@ -17,9 +17,17 @@ APP.model.add(data);
 
 APP.data.addItem(data,
 "webpack.ico",
-"https://webpack.github.io/docs/tutorials/getting-started/",
-"Webpack tutorial",
-"Webpack simple walkthrough"
+"https://webpack.js.org/guides/",
+"Webpack Guides",
+"List of Webpack Guides"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"webpack.ico",
+"https://webpack.js.org/concepts/loaders/",
+"Webpack loaders",
+"List of Webpack loaders"
 );
 APP.model.add(data);
 
