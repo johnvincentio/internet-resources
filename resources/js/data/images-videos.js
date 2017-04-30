@@ -110,4 +110,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"lorempixel.ico",
+"http://lorempixel.com/",
+"lorempixel",
+"Placeholder Images for every case. Webdesign or Print."
+);
+APP.model.add(data);
+
 })();

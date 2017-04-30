@@ -25,7 +25,7 @@ APP.model.add(data);
 
 APP.data.addItem(data,
 "webpack.ico",
-"https://webpack.js.org/concepts/loaders/",
+"https://webpack.js.org/loaders/",
 "Webpack loaders",
 "List of Webpack loaders"
 );
