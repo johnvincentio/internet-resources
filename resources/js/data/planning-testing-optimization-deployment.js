@@ -110,4 +110,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"feedvalidator.ico",
+"http://www.feedvalidator.org/",
+"RSS Feed Validator",
+"RSS Feed Validator for Atom, RSS and KML"
+);
+APP.model.add(data);
+
 })();
