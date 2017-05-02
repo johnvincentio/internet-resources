@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Bootstrap");
+var data = APP.data.addData("ion-pinpoint", "Bootstrap");
 
 APP.data.addItem(data,
 "bootstrap.ico",

@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-color-filter-outline", "Diagram Tools");
+var data = APP.data.addData("ion-settings", "Diagram Tools");
 
 APP.data.addItem(data,
 "balsamiq.ico",

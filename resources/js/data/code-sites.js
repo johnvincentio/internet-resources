@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Online Coding Sites");
+var data = APP.data.addData("ion-wrench", "Online Coding Sites");
 
 APP.data.addItem(data,
 "codepen.ico",

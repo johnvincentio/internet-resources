@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Content Delivery Network CDNs");
+var data = APP.data.addData("ion-ios-cloud", "Content Delivery Network CDNs");
 APP.data.addItem(data,
 "cdnjs.ico",
 "https://cdnjs.com/",

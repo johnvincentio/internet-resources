@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Game Assets");
+var data = APP.data.addData("ion-briefcase", "Game Assets");
 
 APP.data.addItem(data,
 "itch-io.ico",

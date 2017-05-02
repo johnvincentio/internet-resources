@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Fonts and Typography Tools");
+var data = APP.data.addData("ion-briefcase", "Fonts and Typography Tools");
 APP.data.addItem(data,
 "googlefonts.png",
 "https://www.google.com/fonts",

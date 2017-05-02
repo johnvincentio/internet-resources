@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Cloud");
+var data = APP.data.addData("ion-ios-cloud-outline", "Cloud");
 
 APP.data.addItem(data,
 "aws.ico",

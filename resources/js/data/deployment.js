@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-loop", "Deployment");
+var data = APP.data.addData("ion-funnel", "Deployment");
 
 
 APP.data.addItem(data,

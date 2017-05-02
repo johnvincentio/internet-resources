@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Node Package Manager");
+var data = APP.data.addData("ion-social-nodejs", "Node Package Manager");
 
 APP.data.addItem(data,
 "npmjs.png",

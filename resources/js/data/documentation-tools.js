@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-social-html5-outline", "Documentation Tools");
+var data = APP.data.addData("ion-hammer", "Documentation Tools");
 
 APP.data.addItem(data,
 "markdown.png",

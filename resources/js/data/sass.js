@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "Sass");
+var data = APP.data.addData("ion-social-sass", "Sass");
 
 APP.data.addItem(data,
 "sass-lang.ico",

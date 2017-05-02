@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "NodeJS");
+var data = APP.data.addData("ion-social-nodejs", "NodeJS");
 
 APP.data.addItem(data,
 "nodejs.png",

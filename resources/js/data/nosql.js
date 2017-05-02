@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-bookmarks-outline", "NoSQL");
+var data = APP.data.addData("ion-cube", "NoSQL");
 
 APP.data.addItem(data,
 "mongodb.ico",
