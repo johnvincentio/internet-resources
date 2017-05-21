@@ -3,7 +3,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-bag", "CMS Resources");
+var data = APP.data.addData("ion-bag", "CMS");
 
 APP.data.addItem(data,
 "ghost.ico",

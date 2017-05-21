@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-social-css3-outline", "CSS3 Resources");
+var data = APP.data.addData("ion-social-css3-outline", "CSS3");
 APP.data.addItem(data,
 "mdn.png",
 "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
@@ -61,12 +61,19 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
-
 APP.data.addItem(data,
 "1stwebdesigner.ico",
 "http://1stwebdesigner.com/css3-text-effects-typography/",
 "CSS3 Text Effects and Tutorials",
 "40 Creative CSS3 Text Effects and Tutorials"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"purecss.ico",
+"https://purecss.io",
+"CSS modules",
+"A set of small, responsive CSS modules that you can use in every web project."
 );
 APP.model.add(data);
 
