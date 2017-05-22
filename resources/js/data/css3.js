@@ -72,8 +72,8 @@ APP.model.add(data);
 APP.data.addItem(data,
 "purecss.ico",
 "https://purecss.io",
-"CSS modules",
-"A set of small, responsive CSS modules that you can use in every web project."
+"Pure CSS modules",
+"PureCSS, A set of small, responsive CSS modules that you can use in every web project."
 );
 APP.model.add(data);
 

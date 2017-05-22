@@ -29,4 +29,20 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"jsDelivr.ico",
+"http://www.jsdelivr.com/",
+"jsDelivr CDN",
+"A free super-fast CDN for developers and webmasters"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"keycdn.ico",
+"https://www.keycdn.com/",
+"Keycdn CDN",
+"A Simple, Fast & Reliable CDN."
+);
+APP.model.add(data);
+
 })();
