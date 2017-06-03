@@ -77,4 +77,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"github.png",
+"https://vitalets.github.io/x-editable/",
+"X-editable",
+"Create editable elements on your page, includes both popup and inline modes."
+);
+APP.model.add(data);
+
 })();
