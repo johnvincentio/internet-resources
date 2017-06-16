@@ -4,18 +4,7 @@
 (function() {
     'use strict';
 
-// https://cdnjs.com/
-// https://www.npmjs.com/package/jQuery
-
 var data = APP.data.addData("ion-social-html5-outline", "HTML5 Resources");
-
-APP.data.addItem(data,
-"brackets.png",
-"http://brackets.io/",
-"Brackets Text Editor",
-"Not just an HTML5 resource, but for writing code in general. The best free code editor in the world!"
-);
-APP.model.add(data);
 
 APP.data.addItem(data,
 "mdn.png",
