@@ -4,13 +4,21 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-social-html5-outline", "Editor Tools");
+var data = APP.data.addData("ion-edit", "Editor Tools");
 
 APP.data.addItem(data,
 "visual-studio.ico",
 "https://www.visualstudio.com/",
-"Visual Studio",
+"Visual Studio Code",
 "Rich IDE"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"visual-studio.ico",
+"https://marketplace.visualstudio.com/",
+"Visual Studio Marketplace",
+"Extensions for Visual Studio Code"
 );
 APP.model.add(data);
 
@@ -31,6 +39,3 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 })();
-
-
-    // https://www.visualstudio.com/
