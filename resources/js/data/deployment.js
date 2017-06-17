@@ -39,13 +39,6 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
-APP.data.addItem(data,
-"github.png",
-"http://rogerdudler.github.io/git-guide/",
-"Git Guide",
-"Simple Git Guide"
-);
-APP.model.add(data);
 
 APP.data.addItem(data,
 "pm2.ico",

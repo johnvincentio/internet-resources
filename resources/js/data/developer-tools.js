@@ -15,6 +15,22 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+"github.png",
+"https://github.com/",
+"Github",
+"Git repositories"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"bitbucket.ico",
+"https://bitbucket.org/",
+"Bitbucket",
+"Git repositories"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
 "git-tower.ico",
 "https://www.git-tower.com/blog/git-cheat-sheet/",
 "Git Cheat Sheet",
@@ -27,6 +43,14 @@ APP.data.addItem(data,
 "https://www.sourcetreeapp.com/",
 "SourceTree",
 "A free visual Git and Hg client for Mac and Windows"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"github.png",
+"http://rogerdudler.github.io/git-guide/",
+"Git Guide",
+"Simple Git Guide"
 );
 APP.model.add(data);
 
