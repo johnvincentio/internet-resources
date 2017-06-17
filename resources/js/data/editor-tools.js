@@ -7,17 +7,17 @@
 var data = APP.data.addData("ion-edit", "Editor Tools");
 
 APP.data.addItem(data,
-"visual-studio.ico",
-"https://www.visualstudio.com/",
+"visual-studio-code.ico",
+"https://code.visualstudio.com/",
 "Visual Studio Code",
 "Rich IDE"
 );
 APP.model.add(data);
 
 APP.data.addItem(data,
-"visual-studio.ico",
+"visual-studio-code.ico",
 "https://marketplace.visualstudio.com/",
-"Visual Studio Marketplace",
+"Visual Studio Code Marketplace",
 "Extensions for Visual Studio Code"
 );
 APP.model.add(data);
