@@ -53,4 +53,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"templated.ico",
+"https://templated.co/",
+"Site Templates",
+"A collection of free, simple CSS, HTML5 & Responsive site templates"
+);
+APP.model.add(data);
+
 })();
