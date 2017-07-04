@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-social-nodejs", "NodeJS");
+var data = APP.data.addData("ion-social-nodejs", "Node");
 
 APP.data.addItem(data,
 "nodejs.png",
@@ -115,6 +115,14 @@ APP.data.addItem(data,
 "http://passportjs.org/",
 "Passport",
 "Authentication middleware for NodeJS"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"jwt.png",
+"https://jwt.io/",
+"JWT",
+"JSON Web Tokens are a method for securely representing claims between two parties."
 );
 APP.model.add(data);
 

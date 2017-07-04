@@ -5,12 +5,12 @@ $(function() {
     'use strict';
 
     var $DOM = {
-        main : $('main'),
-        groups : $('#js--groups'),
-        main_nav : $('.js--main-nav'),
-        search_btn : $('.js--search-btn'),
-        search_title : $('.js--search-title'),
-        search_field : $('.js--search-field')
+        main: $('main'),
+        groups: $('#js--groups'),
+        main_nav: $('.js--main-nav'),
+        search_btn: $('.js--search-btn'),
+        search_title: $('.js--search-title'),
+        search_field: $('.js--search-field')
     };
 
 /* ----------------------------------- */
@@ -34,7 +34,7 @@ $(function() {
         APP.views.renderGroups(APP.model.getSearch(), $DOM.groups);
         APP.views.renderNavItems(APP.model.getSearch(), $DOM.main_nav);
 
-        $DOM.search_title .text("Select");      // reset dropdown name.
+        $DOM.search_title.text("Select");      // reset dropdown name.
     });
 
 /*
@@ -51,7 +51,7 @@ $(function() {
 * Scroll on click nav-item to the correct section
 */
     $DOM.main_nav.on('click', '.js--scroll', function() {
-        var id = parseInt($(this).attr('data-item-id'));
+        var id = parseInt($(this).attr('data-item-id'), 10);
 //        console.log("id "+id);
         $('html, body').animate({scrollTop: $('.js--group-'+id).offset().top}, 1000);
     });
