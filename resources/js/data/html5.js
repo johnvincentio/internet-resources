@@ -25,7 +25,7 @@ APP.model.add(data);
 APP.data.addItem(data,
 "github.png",
 "https://vitalets.github.io/x-editable/",
-"In-place editing on your page",
+"X-editable",
 "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery."
 );
 APP.model.add(data);
