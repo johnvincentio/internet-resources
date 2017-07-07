@@ -78,4 +78,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"github.png",
+"http://usejsdoc.org/",
+"@use JSDoc",
+"Tool for documenting Javascript."
+);
+APP.model.add(data);
+
 })();

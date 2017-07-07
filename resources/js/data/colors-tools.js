@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-var data = APP.data.addData("ion-ios-color-filter-outline", "Great Colors and Tools");
+var data = APP.data.addData("ion-ios-color-filter-outline", "Colors and Tools");
 APP.data.addItem(data,
 "flatuicolors.png",
 "http://flatuicolors.com/",
