@@ -137,7 +137,7 @@ APP.data.addItem(data,
 "formspree.png",
 "https://formspree.io/",
 "Form Spree",
-"Email forwarding from a for post"
+"Email forwarding from a post"
 );
 APP.model.add(data);
 
