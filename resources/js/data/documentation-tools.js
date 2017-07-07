@@ -7,6 +7,14 @@
 var data = APP.data.addData("ion-hammer", "Documentation Tools");
 
 APP.data.addItem(data,
+"gitbook.ico",
+"https://www.gitbook.com/",
+"GitBook",
+"GitBook helps your team write, collaborate and publish content online."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
 "markdown.png",
 "https://guides.github.com/features/mastering-markdown/",
 "Mastering Markdown",
