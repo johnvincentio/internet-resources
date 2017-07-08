@@ -126,4 +126,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"npmjs.png",
+"https://www.npmjs.com/package/joi",
+"Joi",
+"Object schema description language and validator for JavaScript objects."
+);
+APP.model.add(data);
+
 })();
