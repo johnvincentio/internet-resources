@@ -95,6 +95,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+"googledev.png",
+"https://www.google.com/webmasters/tools",
+"Google Webmaster Tools",
+"Google Webmaster Tools"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
 "namecheap.png",
 "https://www.namecheap.com/",
 "Namecheap",
