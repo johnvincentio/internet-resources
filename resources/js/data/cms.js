@@ -78,7 +78,7 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"",
+"aaaa-no-favicon.png",
 "http://www.yaml.org/start.html",
 "Yaml",
 "YAML is a human friendly data serialization standard for all programming languages."
@@ -86,7 +86,7 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"",
+"markdown.png",
 "https://kramdown.gettalong.org/",
 "Kramdown",
 "Fast, pure-Ruby Markdown-superset converter"
