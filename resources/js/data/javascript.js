@@ -6,6 +6,15 @@
 
 var data = APP.data.addData("ion-social-javascript-outline", "JavaScript Resources");
 
+
+APP.data.addItem(data,
+"facebook.ico",
+"https://developers.facebook.com/",
+"Facebook for Developers",
+"Build apps with Facebook"
+);
+APP.model.add(data);
+
 APP.data.addItem(data,
 "moment-favicon.png",
 "http://momentjs.com/",
