@@ -77,4 +77,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"css3factory.png",
+"http://www.css3factory.com/linear-gradients/",
+"CSS Gradient Generator",
+"CSS Gradient Generator"
+);
+APP.model.add(data);
+
 })();
