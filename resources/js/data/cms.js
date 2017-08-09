@@ -141,4 +141,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"handlebars.png",
+"http://handlebarsjs.com/",
+"Handlebars",
+"Build semantic templates"
+);
+APP.model.add(data);
+
 })();
