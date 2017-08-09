@@ -61,4 +61,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"toptal.png",
+"https://www.toptal.com/designers/subtlepatterns/",
+"Subtle Patterns",
+"A collection of free, subtle background patterns"
+);
+APP.model.add(data);
+
 })();
