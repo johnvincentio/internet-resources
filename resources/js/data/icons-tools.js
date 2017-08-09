@@ -14,7 +14,7 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"fontawesome.png",
+"fontawesome.ico",
 "http://fontawesome.io/",
 "Font Awesome",
 "Another highly popular icon font, consisting of 628 icons spread across several categories."
