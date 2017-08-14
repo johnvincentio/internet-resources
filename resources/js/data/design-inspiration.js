@@ -69,4 +69,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"colourlovers.ico",
+"http://www.colourlovers.com/",
+"ColourLovers",
+"Share Your Color Ideas & Inspiration"
+);
+APP.model.add(data);
+
 })();

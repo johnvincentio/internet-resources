@@ -62,22 +62,6 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"coleure.png",
-"https://www.coleure.com/",
-"Coleure",
-"Color management app that allows you to choose, mix and edit great colors."
-);
-APP.model.add(data);
-
-APP.data.addItem(data,
-"colortemplate.png",
-"http://www.rocket-design.fr/color-template/",
-"Learn about colors",
-"If you want to learn about colors, this is the #1 resource to go."
-);
-APP.model.add(data);
-
-APP.data.addItem(data,
 "css3factory.png",
 "http://www.css3factory.com/linear-gradients/",
 "CSS Gradient Generator",
@@ -85,4 +69,46 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"adobe.ico",
+"https://color.adobe.com/create/color-wheel",
+"Adobe Color Wheel",
+"Adobe Color Wheel"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"w3schools.ico",
+"https://www.w3schools.com/colors/colors_picker.asp",
+"w3schools Colors",
+"w3schools Colors"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"coolers.png",
+"https://coolors.co/",
+"Coolers",
+"Browse Color Schemes"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"colrd.ico",
+"http://colrd.com/",
+"Colrd",
+"Create and share color inspiration"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"colourco.ico",
+"http://www.colourco.de/",
+"Colourcode",
+"Create color combinations"
+);
+APP.model.add(data);
+
 })();
+
+

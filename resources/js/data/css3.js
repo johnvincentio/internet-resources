@@ -85,4 +85,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"w3schools.ico",
+"https://www.w3schools.com/css/default.asp",
+"w3schools CSS",
+"w3schools CSS"
+);
+APP.model.add(data);
+
 })();
