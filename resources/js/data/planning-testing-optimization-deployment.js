@@ -126,4 +126,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"choosealicense.ico",
+"https://choosealicense.com/",
+"Open Source Licenses",
+"Choose an open source license"
+);
+APP.model.add(data);
+
 })();
