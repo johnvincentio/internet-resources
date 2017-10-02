@@ -22,4 +22,12 @@ APP.data.addItem(data,
   );
   APP.model.add(data);
 
+APP.data.addItem(data,
+  "react-training.png",
+  "https://reacttraining.com/react-router/web/guides/philosophy",
+  "React Training",
+  "React Training / React Router"
+  );
+  APP.model.add(data);
+
 })();
