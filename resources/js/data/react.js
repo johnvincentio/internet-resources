@@ -19,15 +19,31 @@ APP.data.addItem(data,
   "https://babeljs.io/",
   "Babel is a JavaScript compiler",
   "Use next generation JavaScript, today."
-  );
-  APP.model.add(data);
+);
+APP.model.add(data);
 
 APP.data.addItem(data,
   "react-training.png",
   "https://reacttraining.com/react-router/web/guides/philosophy",
   "React Training",
   "React Training / React Router"
-  );
-  APP.model.add(data);
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+  "react.ico",
+  "https://reactjs.org/docs/test-renderer.html",
+  "Test Renderer",
+  "React Testing without a DOM"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+  "react.ico",
+  "https://reactjs.org/docs/shallow-renderer.html",
+  "Shallow Renderer",
+  "React Testing without a DOM"
+);
+APP.model.add(data);
 
 })();
