@@ -15,6 +15,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+  "react.ico",
+  "https://reactjs.org/docs/hello-world.html",
+  "React",
+  "React Documentation."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
   "babel.ico",
   "https://babeljs.io/",
   "Babel is a JavaScript compiler",
