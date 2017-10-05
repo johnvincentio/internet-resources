@@ -39,6 +39,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+  "jest.ico",
+  "https://facebook.github.io/jest/",
+  "Jest",
+  "Delightful JavaScript Testing"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
   "react.ico",
   "https://reactjs.org/docs/test-renderer.html",
   "Test Renderer",
