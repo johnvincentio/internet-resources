@@ -4,7 +4,7 @@
 (function() {
   'use strict';
 
-var data = APP.data.addData("ion-ios-world", "React Resources");
+var data = APP.data.addData("ion-ios-world", "React");
 
 APP.data.addItem(data,
 "react.ico",
