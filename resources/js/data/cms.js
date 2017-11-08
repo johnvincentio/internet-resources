@@ -149,4 +149,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"rouge.ico",
+"http://rouge.jneen.net/",
+"Rouge",
+"An elegant, extendable code highlighter"
+);
+APP.model.add(data);
+
 })();
