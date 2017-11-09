@@ -89,7 +89,7 @@ APP.model.add(data);
 APP.data.addItem(data,
   "github.png",
   "https://github.com/contra/react-responsive",
-  "react-responsive",
+  "React-Responsive",
   "Media queries in react for responsive design"
 );
 APP.model.add(data);
