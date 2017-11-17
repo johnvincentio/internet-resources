@@ -94,4 +94,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "npmjs.png",
+  "https://www.npmjs.com/package/redux-devtools",
+  "redux-devtools",
+  "A live-editing time travel environment for Redux"
+);
+APP.model.add(data);
+
 })();
