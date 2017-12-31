@@ -93,4 +93,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"materializecss.png",
+"http://materializecss.com/",
+"Materialize",
+"A modern responsive front-end framework based on Material Design"
+);
+APP.model.add(data);
+
 })();
