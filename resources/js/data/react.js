@@ -110,4 +110,14 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "github.png",
+  "http://intljusticemission.github.io/react-big-calendar/",
+  "React Calendar",
+  "An events calendar component built for React"
+);
+APP.model.add(data);
+
+
+
 })();

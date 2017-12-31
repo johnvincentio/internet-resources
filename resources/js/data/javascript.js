@@ -95,4 +95,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"momentjs.png",
+"https://momentjs.com/",
+"Moment.js",
+"Parse, validate, manipulate, and display dates and times"
+);
+APP.model.add(data);
+
 })();
