@@ -102,4 +102,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "reactd3.png",
+  "http://www.reactd3.org/",
+  "React D3",
+  "A Javascript Library For Building Composable And Declarative Charts"
+);
+APP.model.add(data);
+
 })();
