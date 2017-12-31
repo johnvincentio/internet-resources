@@ -16,14 +16,6 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"moment-favicon.png",
-"http://momentjs.com/",
-"JavaScript Dates",
-"Parse, validate, manipulate, and display dates in JavaScript."
-);
-APP.model.add(data);
-
-APP.data.addItem(data,
 "mdn.png",
 "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
 "JavaScript Reference by MDN",
