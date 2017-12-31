@@ -62,4 +62,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"greenkeeper.ico",
+"https://greenkeeper.io/",
+"Greenkeeper.io",
+"Get safety & consistency with real-time monitoring and automatic updates for npm dependencies."
+);
+APP.model.add(data);
+
 })();
