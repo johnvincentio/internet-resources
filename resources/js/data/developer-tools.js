@@ -54,4 +54,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"snyk.png",
+"https://snyk.io/",
+"Snyk",
+"Continuously find & fix vulnerabilities in your dependencies"
+);
+APP.model.add(data);
+
 })();
