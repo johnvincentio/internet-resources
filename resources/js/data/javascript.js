@@ -95,4 +95,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"github.png",
+"http://bigocheatsheet.com/",
+"Know Thy Complexities",
+"Big-O complexities of common algorithms used in Computer Science."
+);
+APP.model.add(data);
+
 })();
