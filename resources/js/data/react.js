@@ -39,7 +39,7 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-  "github.png",
+  "react.ico",
   "https://reactjs.org/docs/higher-order-components.html",
   "Higher-Order Components",
   "A higher-order component (HOC) is an advanced technique in React for reusing component logic."
@@ -47,7 +47,7 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-  "github.png",
+  "react.ico",
   "https://reactjs.org/docs/forms.html",
   "React Forms",
   "React Forms"
