@@ -118,6 +118,20 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "material-io.png",
+  "https://material.io/",
+  "Material Design",
+  "A unified system that combines theory, resources, and tools for crafting digital experiences"
+);
+APP.model.add(data);
 
+APP.data.addItem(data,
+  "material-ui.ico",
+  "http://www.material-ui.com/",
+  "Material-UI",
+  "A combination of React and Google's Material Design"
+);
+APP.model.add(data);
 
 })();
