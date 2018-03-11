@@ -134,4 +134,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "github.png",
+  "https://reactpatterns.com/",
+  "React Patterns",
+  "React Patterns"
+);
+APP.model.add(data);
+
 })();
