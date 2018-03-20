@@ -5,6 +5,23 @@
     'use strict';
 
 var data = APP.data.addData("ion-ios-color-filter-outline", "Colors and Tools");
+
+APP.data.addItem(data,
+  "material-io.png",
+  "https://material.io/guidelines/",
+  "Material Design",
+  "Material Design Guidelines"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+  "material-io.png",
+  "https://material.io/color",
+  "Material Design",
+  "Material Design Color Tool"
+);
+APP.model.add(data);
+
 APP.data.addItem(data,
 "flatuicolors.png",
 "http://flatuicolors.com/",
