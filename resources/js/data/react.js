@@ -158,4 +158,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "styled-components.png",
+  "https://www.styled-components.com/",
+  "Styled Components",
+  "Visual primitives for the component age"
+);
+APP.model.add(data);
+
 })();
