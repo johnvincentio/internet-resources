@@ -159,6 +159,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+  "github.png",
+  "https://devhints.io/react",
+  "React cheatsheet",
+  "React cheatsheet"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
   "styled-components.png",
   "https://www.styled-components.com/",
   "Styled Components",
