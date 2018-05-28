@@ -159,6 +159,14 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+  "material-ui.ico",
+  "https://material-ui.com/demos/pickers/",
+  "Material-UI Pickers",
+  "Pickers provide a simple way to select a single value from a pre-determined set"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
   "material-io.png",
   "https://material.io/tools/icons/?style=baseline",
   "Material-UI Icons",

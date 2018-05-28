@@ -31,10 +31,18 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+"sublime.ico",
+"https://www.sublimetext.com/",
+"Sublime Text Editor",
+"A sophisticated text editor for code, markup and prose"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
 "brackets.png",
 "http://brackets.io/",
 "Brackets Text Editor",
-"Not just an HTML5 resource, but for writing code in general. The best free code editor in the world!"
+"Excellent HTML editor"
 );
 APP.model.add(data);
 
