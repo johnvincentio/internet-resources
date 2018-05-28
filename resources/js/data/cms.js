@@ -157,4 +157,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+  "github.png",
+  "https://devhints.io/Jekyll",
+  "Jekyll cheatsheet",
+  "Jekyll cheatsheet"
+);
+APP.model.add(data);
+
 })();
