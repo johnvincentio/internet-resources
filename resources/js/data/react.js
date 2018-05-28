@@ -143,10 +143,34 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
+  "material-io.png",
+  "https://material.io/design/iconography/system-icons.html#design-principles",
+  "Material Design",
+  "System Icons"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
   "material-ui.ico",
   "http://www.material-ui.com/",
   "Material-UI",
   "A combination of React and Google's Material Design"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+  "material-io.png",
+  "https://material.io/tools/icons/?style=baseline",
+  "Material-UI Icons",
+  "Material UI icons"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+  "materialdesignicons.png",
+  "https://materialdesignicons.com/",
+  "Material Design Icons",
+  "Community driven Material Design Icons"
 );
 APP.model.add(data);
 
