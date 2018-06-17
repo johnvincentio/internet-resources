@@ -46,4 +46,12 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
+APP.data.addItem(data,
+"emmet.ico",
+"https://docs.emmet.io/cheat-sheet/",
+"Emmet",
+"Useful tool for writing HTML"
+);
+APP.model.add(data);
+
 })();
