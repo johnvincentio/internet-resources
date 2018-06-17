@@ -35,8 +35,6 @@
     "wrap-iife": "off",
     "object-shorthand": "off"
   },
-  "plugins": [
-    //you can put plugins here
-  ],
+  "plugins": [],
   "extends": "airbnb"
 }

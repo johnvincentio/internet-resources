@@ -2,7 +2,7 @@
 /* global APP */
 
 (function() {
-    'use strict';
+'use strict';
 
 var data = APP.data.addData("ion-social-sass", "Sass");
 
