@@ -2,17 +2,9 @@
 /* global APP */
 
 (function() {
-    'use strict';
+'use strict';
 
 var data = APP.data.addData("ion-ios-loop", "Planning, Testing, Optimization and Deployment");
-
-APP.data.addItem(data,
-"periodictable.png",
-"https://www.newdesigngroup.ca/website-design/web-design-process-infographic/",
-"Periodic Table of Web Design Process",
-"Great overview of the web design process: from project brief to launching the final version."
-);
-APP.model.add(data);
 
 APP.data.addItem(data,
 "w3c.png",
@@ -31,14 +23,6 @@ APP.data.addItem(data,
 APP.model.add(data);
 
 APP.data.addItem(data,
-"optimizilla.png",
-"http://optimizilla.com/",
-"Optimizilla",
-"Compress up to 20 JPEG and PNG images while keeping a good level of quality."
-);
-APP.model.add(data);
-
-APP.data.addItem(data,
 "favicongenerator.png",
 "http://realfavicongenerator.net/",
 "Real favicon Generator",
@@ -51,6 +35,14 @@ APP.data.addItem(data,
 "https://stayintech.com/info/UX",
 "Usability checklist",
 "Catch common usability problems of your website before you deploy it. Very useful."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"varvy.png",
+"https://varvy.com/",
+"Varvy SEO, Speed and Mobile Tools",
+"Checks your URL for a wide range of problems"
 );
 APP.model.add(data);
 
@@ -78,13 +70,6 @@ APP.data.addItem(data,
 );
 APP.model.add(data);
 
-APP.data.addItem(data,
-"woorank.png",
-"https://www.woorank.com/",
-"Woorank",
-"Get a review of your website to address issues and identify opportunities to get ahead of competition."
-);
-APP.model.add(data);
 
 APP.data.addItem(data,
 "googleanalytics.png",
@@ -131,6 +116,30 @@ APP.data.addItem(data,
 "https://choosealicense.com/",
 "Open Source Licenses",
 "Choose an open source license"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"optimizilla.png",
+"http://optimizilla.com/",
+"Optimizilla",
+"Compress up to 20 JPEG and PNG images while keeping a good level of quality."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"periodictable.png",
+"https://www.newdesigngroup.ca/website-design/web-design-process-infographic/",
+"Periodic Table of Web Design Process",
+"Great overview of the web design process: from project brief to launching the final version."
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"woorank.png",
+"https://www.woorank.com/",
+"Woorank",
+"Get a review of your website to address issues and identify opportunities to get ahead of competition."
 );
 APP.model.add(data);
 
