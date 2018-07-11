@@ -32,6 +32,14 @@ APP.model.add(data);
 
 APP.data.addItem(data,
 "github.png",
+"http://assemble.io/docs/Cheatsheet-Markdown.html",
+"Markdown Cheatsheet",
+"Markdown Cheatsheet"
+);
+APP.model.add(data);
+
+APP.data.addItem(data,
+"github.png",
 "https://gist.github.com/",
 "Gists",
 "Great for code snippets and documentation"
