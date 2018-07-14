@@ -4,10 +4,11 @@ APP.data = (function() {
 	'use strict';
 
 	return {
-		addData: function(icon, text) {
+		addData: function(icon, text, link) {
 			return {
 				icon: icon,
 				text: text,
+				link: link,
 				items: []
 			};
 		},

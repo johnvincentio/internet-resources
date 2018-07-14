@@ -34,10 +34,10 @@ APP.views = (function() {
 				<section class="group js--group-{{1}}">\
 					<div>\
 						<header>\
+						<a name="{{4}}"></a>\
 							<i class="group_heading-icon {{2}}"></i>\
 							<h2 class="group_heading">\
 								{{3}}\
-								<a id="{{4}}"></a>\
 							</h2>\
 					</header>'
 				.replace('{{1}}', idx)
