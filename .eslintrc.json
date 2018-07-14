@@ -4,14 +4,25 @@
     "browser": true,
     "jquery": true
   },
-  "globals": {
-  },
+  "globals": {},
   "rules": {
     "eqeqeq": 1,
-    "no-console": "off",
+		"no-console": "off",
+		"max-len": [
+			"error",
+			{
+				"code": 120,
+				"tabWidth": 2,
+				"comments": 120,
+				"ignoreTrailingComments": true,
+				"ignoreUrls": true,
+				"ignorePattern": "^import\\s.+\\sfrom\\s.+;$"
+			}
+		],
+		"indent": [2, "tab", { "SwitchCase": 1 }],
+		"no-tabs": 0,
     "camelcase": "off",
     "no-unused-expressions": "off",
-    "indent": "off",
     "comma-dangle": ["off"],
     "prefer-arrow-callback": "off",
     "strict": "off",
@@ -26,7 +37,6 @@
     "no-shadow": "off",
     "brace-style": "off",
     "no-multiple-empty-lines": "off",
-    "max-len": "off",
     "func-names": "off",
     "spaced-comment": "off",
     "wrap-life": "off",

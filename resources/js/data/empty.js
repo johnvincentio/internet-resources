@@ -1,7 +1,6 @@
-
 /* global APP */
 
 (function() {
-    'use strict';
+	'use strict';
 
 })();
