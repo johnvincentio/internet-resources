@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-sass', 'Sass');
+	var data = APP.data.addData('ion-social-sass', 'Sass', 'sass');
 
 	APP.data.addItem(data, 'sass-lang.ico', 'http://sass-lang.com/', 'SASS', 'Sass is a CSS extension language.');
 	APP.model.add(data);

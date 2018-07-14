@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-camera-outline', 'Images and Videos');
+	var data = APP.data.addData('ion-ios-camera-outline', 'Images and Videos', 'images-videos');
 
 	APP.data.addItem(data, 'youtube.ico', 'https://www.youtube.com', 'Youtube', 'Huge repository of videos');
 	APP.model.add(data);

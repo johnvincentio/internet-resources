@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-cube', 'NoSQL');
+	var data = APP.data.addData('ion-cube', 'NoSQL', 'node');
 
 	APP.data.addItem(data, 'mongodb.ico', 'https://www.mongodb.com/', 'MongoDB', 'MongoDB');
 	APP.model.add(data);

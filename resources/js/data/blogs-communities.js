@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-star-outline', 'Popular Blogs & Communities');
+	var data = APP.data.addData('ion-ios-star-outline', 'Popular Blogs & Communities', 'blogs');
 
 	APP.data.addItem(
 		data,

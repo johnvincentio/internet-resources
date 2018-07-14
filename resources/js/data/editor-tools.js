@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-edit', 'Editor Tools');
+	var data = APP.data.addData('ion-edit', 'Editor Tools', 'editor-tools');
 
 	APP.data.addItem(data, 'visual-studio-code.ico', 'https://code.visualstudio.com/', 'Visual Studio Code', 'Rich IDE');
 	APP.model.add(data);

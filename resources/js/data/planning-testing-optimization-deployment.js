@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-loop', 'Planning, Testing, Optimization and Deployment');
+	var data = APP.data.addData('ion-ios-loop', 'Planning, Testing, Optimization and Deployment', 'deployment');
 
 	APP.data.addItem(
 		data,

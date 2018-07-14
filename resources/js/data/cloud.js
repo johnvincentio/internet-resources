@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-cloud-outline', 'Cloud');
+	var data = APP.data.addData('ion-ios-cloud-outline', 'Cloud', 'cloud');
 
 	APP.data.addItem(data, 'aws.ico', 'https://aws.amazon.com/', 'Amazon Web Services', 'AWS Cloud Computing');
 	APP.model.add(data);

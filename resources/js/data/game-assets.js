@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-briefcase', 'Game Assets');
+	var data = APP.data.addData('ion-briefcase', 'Game Assets', 'game-assets');
 
 	APP.data.addItem(data, 'itch-io.ico', 'https://itch.io/game-assets', 'Game Assets', 'Huge Collection of Game Assets');
 	APP.model.add(data);

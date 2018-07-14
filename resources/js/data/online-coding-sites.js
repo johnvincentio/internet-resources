@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-wrench', 'Online Coding Sites');
+	var data = APP.data.addData('ion-wrench', 'Online Coding Sites', 'online-coding');
 
 	APP.data.addItem(
 		data,

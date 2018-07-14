@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-briefcase', 'Fonts and Typography Tools');
+	var data = APP.data.addData('ion-briefcase', 'Fonts and Typography Tools', 'fonts');
 	APP.data.addItem(
 		data,
 		'googlefonts.png',

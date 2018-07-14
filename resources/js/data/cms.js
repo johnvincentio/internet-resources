@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-bag', 'CMS');
+	var data = APP.data.addData('ion-bag', 'CMS', 'cms');
 
 	APP.data.addItem(data, 'ghost.ico', 'https://ghost.org/', 'Ghost', 'Professional Publishing Platform');
 	APP.model.add(data);

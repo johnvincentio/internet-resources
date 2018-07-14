@@ -5,7 +5,8 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-css3-outline', 'CSS3');
+	var data = APP.data.addData('ion-social-css3-outline', 'CSS3', 'css');
+
 	APP.data.addItem(
 		data,
 		'mdn.png',

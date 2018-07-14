@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-html5-outline', 'HTML5 Resources');
+	var data = APP.data.addData('ion-social-html5-outline', 'HTML5 Resources', 'html');
 
 	APP.data.addItem(
 		data,

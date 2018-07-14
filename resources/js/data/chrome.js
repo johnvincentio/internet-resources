@@ -3,7 +3,8 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-chrome-outline', 'Chrome');
+	var data = APP.data.addData('ion-social-chrome-outline', 'Chrome', 'chrome');
+
 	APP.data.addItem(
 		data,
 		'chrome-web-store.png',

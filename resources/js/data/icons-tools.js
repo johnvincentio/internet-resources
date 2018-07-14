@@ -5,7 +5,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-paperplane-outline', 'Icons and Tools');
+	var data = APP.data.addData('ion-ios-paperplane-outline', 'Icons and Tools', 'icons');
 	APP.data.addItem(
 		data,
 		'ionicons.png',

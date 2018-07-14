@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-pinpoint', 'Bootstrap');
+	var data = APP.data.addData('ion-pinpoint', 'Bootstrap', 'bootstrap');
 
 	APP.data.addItem(
 		data,

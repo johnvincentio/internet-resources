@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-world', 'React');
+	var data = APP.data.addData('ion-ios-world', 'React', 'react');
 
 	APP.data.addItem(
 		data,

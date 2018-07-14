@@ -3,7 +3,8 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-cloud', 'Content Delivery Network CDNs');
+	var data = APP.data.addData('ion-ios-cloud', 'Content Delivery Network CDNs', 'cdn');
+
 	APP.data.addItem(data, 'cdnjs.ico', 'https://cdnjs.com/', 'CDN', 'Search from thousands of libraries');
 	APP.model.add(data);
 

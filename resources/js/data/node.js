@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-nodejs', 'Node');
+	var data = APP.data.addData('ion-social-nodejs', 'Node', 'node');
 
 	APP.data.addItem(data, 'nodejs.png', 'https://nodejs.org/en/', 'NodeJS', 'NodeJS');
 	APP.model.add(data);

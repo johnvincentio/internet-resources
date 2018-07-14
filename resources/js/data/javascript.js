@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-social-javascript-outline', 'JavaScript Resources');
+	var data = APP.data.addData('ion-social-javascript-outline', 'JavaScript Resources', 'javascript');
 
 	APP.data.addItem(
 		data,
