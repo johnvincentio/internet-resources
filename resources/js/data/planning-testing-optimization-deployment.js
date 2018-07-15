@@ -79,6 +79,15 @@
 
 	APP.data.addItem(
 		data,
+		'wave.ico',
+		'http://wave.webaim.org/',
+		'Wave',
+		'Web Accessibility Evaluation Tool'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'googleanalytics.png',
 		'http://www.google.com/analytics',
 		'Google Analytics',
