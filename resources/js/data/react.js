@@ -61,11 +61,20 @@
 		'babel.ico',
 		'https://babeljs.io/',
 		'Babel is a JavaScript compiler',
-		'Use next generation JavaScript, today.'
+		'Use next generation JavaScript, today'
 	);
 	APP.model.add(data);
 
 	APP.data.addItem(data, 'jest.ico', 'https://facebook.github.io/jest/', 'Jest', 'Delightful JavaScript Testing');
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'enzyme.ico',
+		'http://airbnb.io/enzyme/',
+		'Enzyme',
+		'Enzyme is a JavaScript Testing utility for Reac'
+	);
 	APP.model.add(data);
 
 	APP.data.addItem(
