@@ -106,6 +106,15 @@
 
 	APP.data.addItem(
 		data,
+		'redux-form.png',
+		'https://redux-form.com/7.4.2/',
+		'Redux Form',
+		'Manage your form state in Redux'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'github.png',
 		'https://github.com/contra/react-responsive',
 		'React-Responsive',
@@ -197,7 +206,7 @@
 	APP.data.addItem(data, 'github.png', 'https://reactpatterns.com/', 'React Patterns', 'React Patterns');
 	APP.model.add(data);
 
-	APP.data.addItem(data, 'github.png', 'https://devhints.io/react', 'React cheatsheet', 'React cheatsheet');
+	APP.data.addItem(data, 'github.png', 'https://devhints.io/react', 'React Cheatsheet', 'React cheatsheet');
 	APP.model.add(data);
 
 	APP.data.addItem(
