@@ -112,4 +112,13 @@
 		'Creates a color palette from any image'
 	);
 	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'chrome-web-store.png',
+		'https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhe',
+		'Grammarly for Chrome',
+		'Spelling checker'
+	);
+	APP.model.add(data);
 })();
