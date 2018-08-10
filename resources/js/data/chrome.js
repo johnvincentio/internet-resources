@@ -116,7 +116,7 @@
 	APP.data.addItem(
 		data,
 		'chrome-web-store.png',
-		'https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhe',
+		'https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en',
 		'Grammarly for Chrome',
 		'Spelling checker'
 	);
