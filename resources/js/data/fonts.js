@@ -3,7 +3,7 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('hammer', 'Fonts and Typography Tools', 'fonts');
+	var data = APP.data.addData('ion-hammer', 'Fonts and Typography Tools', 'fonts');
 	APP.data.addItem(
 		data,
 		'googlefonts.png',
