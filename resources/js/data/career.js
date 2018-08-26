@@ -15,4 +15,13 @@
 	APP.model.add(data);
 
 
+	APP.data.addItem(
+		data,
+		'linkedin.ico',
+		'https://www.linkedin.com/',
+		'LinkedIn',
+		'Social Networking for the Business Community'
+	);
+	APP.model.add(data);
+
 })();
