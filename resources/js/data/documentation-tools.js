@@ -7,6 +7,15 @@
 
 	APP.data.addItem(
 		data,
+		'google-docs.ico',
+		'https://docs.google.com/',
+		'Google Docs',
+		'Create and edit documents online, for free.'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'gitbook.ico',
 		'https://www.gitbook.com/',
 		'GitBook',
