@@ -24,4 +24,13 @@
 	);
 	APP.model.add(data);
 
+	APP.data.addItem(
+		data,
+		'angel.ico',
+		'https://angel.co/',
+		'AngelList',
+		'Jobs on AngelList'
+	);
+	APP.model.add(data);
+
 })();
