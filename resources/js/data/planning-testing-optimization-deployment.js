@@ -27,8 +27,17 @@
 		data,
 		'favicongenerator.png',
 		'http://realfavicongenerator.net/',
-		'Real favicon Generator',
-		'Just upload an image and this tool creates favicons for your website for all platforms.'
+		'Real Favicon Generator',
+		'Just upload an image and this tool creates favicons for your website for all browsers and all platforms.'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'websiteplanet.png',
+		'https://www.websiteplanet.com/webtools/favicon-generator/',
+		'Favicon Generator',
+		'Create favicons for your website for all browsers and all platforms.'
 	);
 	APP.model.add(data);
 
