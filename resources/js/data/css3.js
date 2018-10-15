@@ -36,15 +36,6 @@
 
 	APP.data.addItem(
 		data,
-		'caniuse.png',
-		'http://caniuse.com/',
-		'Can I Use?',
-		'Up-to-date browser support tables for front-end technologies on desktop and mobile browsers.'
-	);
-	APP.model.add(data);
-
-	APP.data.addItem(
-		data,
 		'animatecss.png',
 		'http://daneden.github.io/animate.css/',
 		'Animate.css',

@@ -58,4 +58,23 @@
 		'Get safety & consistency with real-time monitoring and automatic updates for npm dependencies.'
 	);
 	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'caniuse.png',
+		'http://caniuse.com/',
+		'Can I Use?',
+		'Up-to-date browser support tables for front-end technologies on desktop and mobile browsers.'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'github.png',
+		'https://browserl.ist/',
+		'browserl.ist',
+		'A page to display compatible browsers from a browserslist string.'
+	);
+	APP.model.add(data);
+
 })();
