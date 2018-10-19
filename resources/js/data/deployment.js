@@ -37,4 +37,14 @@
 		'Advanced, production process manager for Node.js'
 	);
 	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'github.png',
+		'https://chrisbateman.github.io/webpack-visualizer/',
+		'Webpack Visualizer',
+		'Graphs for Webpack Bundles'
+	);
+	APP.model.add(data);
+
 })();
