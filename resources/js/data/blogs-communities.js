@@ -3,14 +3,14 @@
 (function() {
 	'use strict';
 
-	var data = APP.data.addData('ion-ios-star-outline', 'Popular Blogs & Communities', 'blogs');
+	var data = APP.data.addData('ion-ios-star-outline', 'Blogs & Communities', 'blogs');
 
 	APP.data.addItem(
 		data,
 		'johnvincent.png',
 		'https://www.johnvincent.io/blog/',
 		'John Vincent',
-		'Technology Articles'
+		'Technology Articles for Full Stack JavaScript Development'
 	);
 	APP.model.add(data);
 
