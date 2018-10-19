@@ -7,6 +7,15 @@
 
 	APP.data.addItem(
 		data,
+		'johnvincent.png',
+		'https://www.johnvincent.io/blog/',
+		'John Vincent',
+		'Technology Articles'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'stackoverflow.png',
 		'http://stackoverflow.com/',
 		'Stack Overflow',
