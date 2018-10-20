@@ -40,10 +40,28 @@
 
 	APP.data.addItem(
 		data,
+		'npmjs.png',
+		'https://www.npmjs.com/package/webpack-bundle-analyzer',
+		'webpack-bundle-analyzer',
+		'Visualize size of webpack output files with an interactive zoomable treemap'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'github.png',
 		'https://chrisbateman.github.io/webpack-visualizer/',
 		'Webpack Visualizer',
 		'Graphs for Webpack Bundles'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'webpack-analyse.png',
+		'https://webpack.github.io/analyse',
+		'Webpack Analyse',
+		'Analysis of Webpack Bundles'
 	);
 	APP.model.add(data);
 
