@@ -112,10 +112,20 @@
 
 	APP.data.addItem(
 		data,
+		'picsum.ico',
+		'https://picsum.photos/',
+		'Lorem Picsum',
+		'Lorem Ipsum but for photos'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'lorempixel.ico',
 		'http://lorempixel.com/',
 		'lorempixel',
 		'Placeholder Images for every case. Webdesign or Print.'
 	);
 	APP.model.add(data);
+
 })();
