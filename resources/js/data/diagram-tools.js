@@ -16,6 +16,15 @@
 
 	APP.data.addItem(
 		data,
+		'draw.png',
+		'https://www.draw.io/',
+		'draw.io',
+		'Create flowcharts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more'
+	);
+	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
 		'creately.png',
 		'https://creately.com/',
 		'Creately',
