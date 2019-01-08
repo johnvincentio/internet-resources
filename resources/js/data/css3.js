@@ -116,4 +116,13 @@
 	'Generate timing animation functions to use in CSS transitions and animations');
 	APP.model.add(data);
 
+	APP.data.addItem(
+		data,
+		'semantic-ui.png',
+		'https://semantic-ui.com/',
+		'Semantic UI',
+		'Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML'
+	);
+	APP.model.add(data);
+
 })();
