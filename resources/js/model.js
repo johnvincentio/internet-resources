@@ -33,7 +33,8 @@ APP.model = (function() {
 					group.tmp = group.items;
 					group.items = [];
 					group.tmp.forEach(function(item) {
-						if (searchString(query, item.h3_text) || searchString(query, item.p_text)) {
+						if (searchString(query, item.h3_text) || searchString(query, item.p_text)
+							|| searchString(query, item.h3_href)) {
 							group.items.push(item);
 						}
 					});
