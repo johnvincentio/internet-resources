@@ -86,7 +86,7 @@
 	APP.data.addItem(
 		data,
 		'npmjs.png',
-		'https://www.npmjs.com/package/Faker',
+		'https://www.npmjs.com/package/faker',
 		'Faker',
 		'Fake data for integration testing'
 	);
