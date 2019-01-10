@@ -77,4 +77,12 @@
 	);
 	APP.model.add(data);
 
+	APP.data.addItem(
+		data,
+		'github.png',
+		'https://devhints.io/',
+		'Developer Cheatsheets',
+		'A collection of cheatsheets/'
+	);
+	APP.model.add(data);
 })();
