@@ -121,4 +121,14 @@
 		'Spelling checker'
 	);
 	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'chrome-web-store.png',
+		'https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd',
+		'Redux DevTools',
+		'Redux DevTools for debugging application state changes'
+	);
+	APP.model.add(data);
+
 })();

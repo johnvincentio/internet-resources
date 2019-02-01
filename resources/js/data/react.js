@@ -107,7 +107,7 @@
 	APP.data.addItem(
 		data,
 		'redux-form.png',
-		'https://redux-form.com/7.4.2/',
+		'https://redux-form.com',
 		'Redux Form',
 		'Manage your form state in Redux'
 	);
@@ -217,4 +217,5 @@
 		'Visual primitives for the component age'
 	);
 	APP.model.add(data);
+
 })();
