@@ -16,4 +16,14 @@
 		'jQuery packaged for NpdeJS'
 	);
 	APP.model.add(data);
+
+	APP.data.addItem(
+		data,
+		'npmjs.png',
+		'https://www.npmjs.com/package/json-server',
+		'JSON Server',
+		'Full fake REST API with zero coding'
+	);
+	APP.model.add(data);
+
 })();
