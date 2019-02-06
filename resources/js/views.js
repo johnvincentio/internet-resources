@@ -1,7 +1,5 @@
 /* global APP */
 
-/*jshint multistr: true */
-
 APP.views = (function() {
 	'use strict';
 
@@ -18,12 +16,12 @@ APP.views = (function() {
 		renderNavItem: function(idx, data) {
 			return '<li><a data-item-id="{{1}}" class="js--scroll" href="#">{{2}}</a></li>'
 				.replace('{{1}}', idx)
-				.replace('{{2}}', data.text);
+				.replace('{{2}}', data.title);
 		},
 		renderGroups: function(data, element) {
 			var template = '';
 			var that = this;
-			console.log(Object.keys(data));
+			// console.log(Object.keys(data));
 			Object.keys(data).forEach(function(key, idx) {
 				template += that.renderGroup(idx, data[key]);
 			});
@@ -42,7 +40,7 @@ APP.views = (function() {
 					</header>'
 				.replace('{{1}}', idx)
 				.replace('{{2}}', data.icon)
-				.replace('{{3}}', data.text)
+				.replace('{{3}}', data.title)
 				.replace('{{4}}', data.link);
 			template += this.renderItems(data.items);
 			template += '</div></section>';
@@ -73,9 +71,9 @@ APP.views = (function() {
             </div>';
 			return template
 				.replace('{{1}}', item.image)
-				.replace('{{2}}', item.h3_href)
-				.replace('{{3}}', item.h3_text)
-				.replace('{{4}}', item.p_text);
+				.replace('{{2}}', item.url)
+				.replace('{{3}}', item.header)
+				.replace('{{4}}', item.text);
 		}
 	};
 })();

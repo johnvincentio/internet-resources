@@ -12,7 +12,7 @@ APP.model = (function() {
 
 	return {
 		add: function(data) {
-			storage[data.text] = data;
+			storage[data.title] = data;
 		},
 		getStorage: function() {
 			return storage;
@@ -33,8 +33,8 @@ APP.model = (function() {
 					group.tmp = group.items;
 					group.items = [];
 					group.tmp.forEach(function(item) {
-						if (searchString(query, item.h3_text) || searchString(query, item.p_text)
-							|| searchString(query, item.h3_href)) {
+						if (searchString(query, item.header) || searchString(query, item.text)
+							|| searchString(query, item.url)) {
 							group.items.push(item);
 						}
 					});

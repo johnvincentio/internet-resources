@@ -4,20 +4,20 @@ APP.data = (function() {
 	'use strict';
 
 	return {
-		addData: function(icon, text, link) {
+		addData: function(icon, title, link) {
 			return {
 				icon: icon,
-				text: text,
+				title: title,
 				link: link,
 				items: []
 			};
 		},
-		addItem: function(data, image, h3_href, h3_text, p_text) {
+		addItem: function(data, image, url, header, text) {
 			data.items.push({
 				image: './resources/images/logos/' + image,
-				h3_href: h3_href,
-				h3_text: h3_text,
-				p_text: p_text
+				url: url,
+				header: header,
+				text: text
 			});
 		}
 	};
