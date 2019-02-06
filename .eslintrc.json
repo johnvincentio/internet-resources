@@ -11,9 +11,9 @@
 		"max-len": [
 			"error",
 			{
-				"code": 120,
+				"code": 150,
 				"tabWidth": 2,
-				"comments": 120,
+				"comments": 150,
 				"ignoreTrailingComments": true,
 				"ignoreUrls": true,
 				"ignorePattern": "^import\\s.+\\sfrom\\s.+;$"
