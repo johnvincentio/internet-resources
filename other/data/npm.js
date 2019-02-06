@@ -13,7 +13,7 @@
 		'npmjs.png',
 		'https://www.npmjs.com/package/jQuery',
 		'jQuery NPM',
-		'jQuery packaged for NpdeJS'
+		'jQuery packaged for NodeJS'
 	);
 	APP.model.add(data);
 
