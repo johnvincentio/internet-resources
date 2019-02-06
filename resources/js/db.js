@@ -4,1805 +4,1805 @@
 APP.db = [
 	{
 		"icon": "ion-ios-star-outline",
-		"text": "Blogs & Communities",
+		"title": "Blogs & Communities",
 		"link": "blogs",
 		"items": [
 			{
 				"image": "johnvincent.png",
-				"h3_href": "https://www.johnvincent.io/blog/",
-				"h3_text": "John Vincent",
-				"p_text": "Technology Articles for Full Stack JavaScript Development"
+				"url": "https://www.johnvincent.io/blog/",
+				"header": "John Vincent",
+				"text": "Technology Articles for Full Stack JavaScript Development"
 			},
 			{
 				"image": "stackoverflow.png",
-				"h3_href": "http://stackoverflow.com/",
-				"h3_text": "Stack Overflow",
-				"p_text": "The biggest programmer community. Ask and find answers to HTML, CSS and JS questions."
+				"url": "http://stackoverflow.com/",
+				"header": "Stack Overflow",
+				"text": "The biggest programmer community. Ask and find answers to HTML, CSS and JS questions."
 			},
 			{
 				"image": "smashingmagazine.png",
-				"h3_href": "https://www.smashingmagazine.com/",
-				"h3_text": "Smashing Magazine",
-				"p_text": "A very popular web design and development blog, writing about all things coding and designing."
+				"url": "https://www.smashingmagazine.com/",
+				"header": "Smashing Magazine",
+				"text": "A very popular web design and development blog, writing about all things coding and designing."
 			},
 			{
 				"image": "codrops.png",
-				"h3_href": "http://tympanus.net/codrops/",
-				"h3_text": "Codrops",
-				"p_text": "Another blog, writing articles and tutorials about  latest web trends, techniques and new possibilities."
+				"url": "http://tympanus.net/codrops/",
+				"header": "Codrops",
+				"text": "Another blog, writing articles and tutorials about  latest web trends, techniques and new possibilities."
 			},
 			{
 				"image": "sitepoint.jpg",
-				"h3_href": "http://www.sitepoint.com/",
-				"h3_text": "Sitepoint",
-				"p_text": "A hub for web developers to share their passion for building incredible Internet things."
+				"url": "http://www.sitepoint.com/",
+				"header": "Sitepoint",
+				"text": "A hub for web developers to share their passion for building incredible Internet things."
 			},
 			{
 				"image": "webdesignerdepot.png",
-				"h3_href": "http://www.webdesignerdepot.com/",
-				"h3_text": "Web Designer Depot",
-				"p_text": "The very best in web design news, views, techniques, and resources."
+				"url": "http://www.webdesignerdepot.com/",
+				"header": "Web Designer Depot",
+				"text": "The very best in web design news, views, techniques, and resources."
 			},
 			{
 				"image": "frontendfront.png",
-				"h3_href": "https://frontendfront.com/",
-				"h3_text": "Front End Front",
-				"p_text": "A place where front-end developers can ask questions, share links, and show their work."
+				"url": "https://frontendfront.com/",
+				"header": "Front End Front",
+				"text": "A place where front-end developers can ask questions, share links, and show their work."
 			},
 			{
 				"image": "heydesigner.png",
-				"h3_href": "http://heydesigner.com",
-				"h3_text": "Hey Designer",
-				"p_text": "Curated articles for designers and front-end developers."
+				"url": "http://heydesigner.com",
+				"header": "Hey Designer",
+				"text": "Curated articles for designers and front-end developers."
 			},
 			{
 				"image": "designernews.png",
-				"h3_href": "https://www.designernews.co/",
-				"h3_text": "Designer News",
-				"p_text": "A community of people in design and tech, to discuss and share interesting things in the industry."
+				"url": "https://www.designernews.co/",
+				"header": "Designer News",
+				"text": "A community of people in design and tech, to discuss and share interesting things in the industry."
 			}
 		]
 	},
 	{
 		"icon": "ion-pinpoint",
-		"text": "Bootstrap",
+		"title": "Bootstrap",
 		"link": "bootstrap",
 		"items": [
 			{
 				"image": "bootstrap.ico",
-				"h3_href": "http://getbootstrap.com/",
-				"h3_text": "Bootstrap",
-				"p_text": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
+				"url": "http://getbootstrap.com/",
+				"header": "Bootstrap",
+				"text": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
 			},
 			{
 				"image": "bootstrap.ico",
-				"h3_href": "http://getbootstrap.com/customize/",
-				"h3_text": "Customize Bootstrap",
-				"p_text": "Customize Bootstrap's components, Less variables, and jQuery plugins to get your very own version."
+				"url": "http://getbootstrap.com/customize/",
+				"header": "Customize Bootstrap",
+				"text": "Customize Bootstrap's components, Less variables, and jQuery plugins to get your very own version."
 			},
 			{
 				"image": "developer-telerik.ico",
-				"h3_href": "http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/",
-				"h3_text": "Advanced Bootstrap Features",
-				"p_text": "Leveling Up Your App With Advanced Bootstrap Features"
+				"url": "http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/",
+				"header": "Advanced Bootstrap Features",
+				"text": "Leveling Up Your App With Advanced Bootstrap Features"
 			},
 			{
 				"image": "tutorialzine.png",
-				"h3_href": "http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/",
-				"h3_text": "Bootstrap Examples",
-				"p_text": "12 Time-Saving Bootstrap Examples"
+				"url": "http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/",
+				"header": "Bootstrap Examples",
+				"text": "12 Time-Saving Bootstrap Examples"
 			},
 			{
 				"image": "startbootstrap.png",
-				"h3_href": "https://startbootstrap.com/",
-				"h3_text": "Bootstrap Examples",
-				"p_text": "Free Bootstrap themes and templates"
+				"url": "https://startbootstrap.com/",
+				"header": "Bootstrap Examples",
+				"text": "Free Bootstrap themes and templates"
 			},
 			{
 				"image": "wrapbootstrap.ico",
-				"h3_href": "https://wrapbootstrap.com/",
-				"h3_text": "Bootstrap Examples",
-				"p_text": "Paid Bootstrap themes and templates"
+				"url": "https://wrapbootstrap.com/",
+				"header": "Bootstrap Examples",
+				"text": "Paid Bootstrap themes and templates"
 			},
 			{
 				"image": "templatemonster.ico",
-				"h3_href": "https://www.templatemonster.com/bootstrap-website-templates/",
-				"h3_text": "Bootstrap Themes",
-				"p_text": "Paid Bootstrap themes and templates"
+				"url": "https://www.templatemonster.com/bootstrap-website-templates/",
+				"header": "Bootstrap Themes",
+				"text": "Paid Bootstrap themes and templates"
 			},
 			{
 				"image": "sitepoint.ico",
-				"h3_href": "https://www.sitepoint.com/grid-system-comparison-bootstrap-vs-foundation/",
-				"h3_text": "Grid System",
-				"p_text": "Grid System Comparison: Bootstrap 3 vs. Foundation 5"
+				"url": "https://www.sitepoint.com/grid-system-comparison-bootstrap-vs-foundation/",
+				"header": "Grid System",
+				"text": "Grid System Comparison: Bootstrap 3 vs. Foundation 5"
 			},
 			{
 				"image": "bootsnipp.png",
-				"h3_href": "http://bootsnipp.com/tags/animation",
-				"h3_text": "Animation Snippets",
-				"p_text": "Animation Snippet"
+				"url": "http://bootsnipp.com/tags/animation",
+				"header": "Animation Snippets",
+				"text": "Animation Snippet"
 			},
 			{
 				"image": "bootsnipp.png",
-				"h3_href": "http://bootsnipp.com/snippets/featured/toggle-navbar-with-slide-down-animation",
-				"h3_text": "Animation Snippets",
-				"p_text": "Navbar Animation Snippet"
+				"url": "http://bootsnipp.com/snippets/featured/toggle-navbar-with-slide-down-animation",
+				"header": "Animation Snippets",
+				"text": "Navbar Animation Snippet"
 			},
 			{
 				"image": "bootstrap.ico",
-				"h3_href": "https://expo.getbootstrap.com/resources/",
-				"h3_text": "Bootstrap Resources",
-				"p_text": "Bootstrap resources like additional showcases, integrations, add-ons, code snippets, and more"
+				"url": "https://expo.getbootstrap.com/resources/",
+				"header": "Bootstrap Resources",
+				"text": "Bootstrap resources like additional showcases, integrations, add-ons, code snippets, and more"
 			}
 		]
 	},
 	{
 		"icon": "ion-social-chrome-outline",
-		"text": "Chrome",
+		"title": "Chrome",
 		"link": "chrome",
 		"items": [
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/category/extensions.",
-				"h3_text": "Chrome Web store",
-				"p_text": "Search for extensions"
+				"url": "https://chrome.google.com/webstore/category/extensions.",
+				"header": "Chrome Web store",
+				"text": "Search for extensions"
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US",
-				"h3_text": "Window Resizer",
-				"p_text": "Resize browser window to emulate various screen resolutions."
+				"url": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US",
+				"header": "Window Resizer",
+				"text": "Resize browser window to emulate various screen resolutions."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
-				"h3_text": "CSS Viewer",
-				"p_text": "A simple CSS property viewer."
+				"url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
+				"header": "CSS Viewer",
+				"text": "A simple CSS property viewer."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/outline-it/lmifhogmjkhdelecaekikapmkhlkkdbn?hl=en",
-				"h3_text": "Outline It",
-				"p_text": "Outlines every HTML element on a webpage, allowing you to see the borders of elements."
+				"url": "https://chrome.google.com/webstore/detail/outline-it/lmifhogmjkhdelecaekikapmkhlkkdbn?hl=en",
+				"header": "Outline It",
+				"text": "Outlines every HTML element on a webpage, allowing you to see the borders of elements."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc",
-				"h3_text": "Evernote Web Clipper",
-				"p_text": "Use the Evernote extension to save things you see on the web into your Evernote account."
+				"url": "https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc",
+				"header": "Evernote Web Clipper",
+				"text": "Use the Evernote extension to save things you see on the web into your Evernote account."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/x-new-tab-pageextension/nejjhhjbbdlbnpfhbclcilanmofmgdlk",
-				"h3_text": "X New Tab Page",
-				"p_text": "Features such as speed dial,cloud addition and cloud backup to enhance the original New Tab."
+				"url": "https://chrome.google.com/webstore/detail/x-new-tab-pageextension/nejjhhjbbdlbnpfhbclcilanmofmgdlk",
+				"header": "X New Tab Page",
+				"text": "Features such as speed dial,cloud addition and cloud backup to enhance the original New Tab."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp",
-				"h3_text": "MozBar",
-				"p_text": "The all-in-one SEO toolbar for research on the go."
+				"url": "https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp",
+				"header": "MozBar",
+				"text": "The all-in-one SEO toolbar for research on the go."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/google-pagespeed-insights/edbkhhpodjkbgenodomhfoldapghpddk",
-				"h3_text": "Google PageSpeed Insights",
-				"p_text": "Check PageSpeed Insights score with a single click."
+				"url": "https://chrome.google.com/webstore/detail/google-pagespeed-insights/edbkhhpodjkbgenodomhfoldapghpddk",
+				"header": "Google PageSpeed Insights",
+				"text": "Check PageSpeed Insights score with a single click."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
-				"h3_text": "Lighthouse",
-				"p_text": "Open-source, automated tool for improving the performance, quality, and correctness of your web apps."
+				"url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+				"header": "Lighthouse",
+				"text": "Open-source, automated tool for improving the performance, quality, and correctness of your web apps."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/html-validator/cgndfbhngibokieehnjhbjkkhbfmhojo",
-				"h3_text": "HTML Validator",
-				"p_text": "Tool to validate HTML of the current web page."
+				"url": "https://chrome.google.com/webstore/detail/html-validator/cgndfbhngibokieehnjhbjkkhbfmhojo",
+				"header": "HTML Validator",
+				"text": "Tool to validate HTML of the current web page."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
-				"h3_text": "Web Developer",
-				"p_text": "The official port of the Web Developer extension for Firefox."
+				"url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
+				"header": "Web Developer",
+				"text": "The official port of the Web Developer extension for Firefox."
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod",
-				"h3_text": "Palette Creator",
-				"p_text": "Creates a color palette from any image"
+				"url": "https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod",
+				"header": "Palette Creator",
+				"text": "Creates a color palette from any image"
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en",
-				"h3_text": "Grammarly for Chrome",
-				"p_text": "Spelling checker"
+				"url": "https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en",
+				"header": "Grammarly for Chrome",
+				"text": "Spelling checker"
 			},
 			{
 				"image": "chrome-web-store.png",
-				"h3_href": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd",
-				"h3_text": "Redux DevTools",
-				"p_text": "Redux DevTools for debugging application state changes"
+				"url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd",
+				"header": "Redux DevTools",
+				"text": "Redux DevTools for debugging application state changes"
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-cloud-outline",
-		"text": "Cloud",
+		"title": "Cloud",
 		"link": "cloud",
 		"items": [
 			{
 				"image": "aws.ico",
-				"h3_href": "https://aws.amazon.com/",
-				"h3_text": "Amazon Web Services",
-				"p_text": "AWS Cloud Computing"
+				"url": "https://aws.amazon.com/",
+				"header": "Amazon Web Services",
+				"text": "AWS Cloud Computing"
 			},
 			{
 				"image": "heroku.ico",
-				"h3_href": "https://www.heroku.com/",
-				"h3_text": "Heroku",
-				"p_text": "Heroku is a PaaS that enables developers to build, run, and operate applications entirely in the cloud"
+				"url": "https://www.heroku.com/",
+				"header": "Heroku",
+				"text": "Heroku is a PaaS that enables developers to build, run, and operate applications entirely in the cloud"
 			},
 			{
 				"image": "digitalocean.png",
-				"h3_href": "https://www.digitalocean.com/",
-				"h3_text": "Digital Ocean",
-				"p_text": "Deploy to the Cloud"
+				"url": "https://www.digitalocean.com/",
+				"header": "Digital Ocean",
+				"text": "Deploy to the Cloud"
 			}
 		]
 	},
 	{
 		"icon": "ion-bag",
-		"text": "CMS",
+		"title": "CMS",
 		"link": "cms",
 		"items": [
 			{
 				"image": "ghost.ico",
-				"h3_href": "https://ghost.org/",
-				"h3_text": "Ghost",
-				"p_text": "Professional Publishing Platform"
+				"url": "https://ghost.org/",
+				"header": "Ghost",
+				"text": "Professional Publishing Platform"
 			},
 			{
 				"image": "ghost.ico",
-				"h3_href": "http://marketplace.ghost.org/",
-				"h3_text": "Ghost Marketplace",
-				"p_text": "A preview of what is to come"
+				"url": "http://marketplace.ghost.org/",
+				"header": "Ghost Marketplace",
+				"text": "A preview of what is to come"
 			},
 			{
 				"image": "themeforest.png",
-				"h3_href": "https://themeforest.net/",
-				"h3_text": "Themes",
-				"p_text": "Paid themes"
+				"url": "https://themeforest.net/",
+				"header": "Themes",
+				"text": "Paid themes"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/search?utf8=%E2%9C%93&q=ghost+theme",
-				"h3_text": "Ghost Themes at Github",
-				"p_text": "Open Source Ghost Themes"
+				"url": "https://github.com/search?utf8=%E2%9C%93&q=ghost+theme",
+				"header": "Ghost Themes at Github",
+				"text": "Open Source Ghost Themes"
 			},
 			{
 				"image": "mailgun.png",
-				"h3_href": "http://www.mailgun.com",
-				"h3_text": "Mailgun",
-				"p_text": "Email Service for Developers"
+				"url": "http://www.mailgun.com",
+				"header": "Mailgun",
+				"text": "Email Service for Developers"
 			},
 			{
 				"image": "disqus.ico",
-				"h3_href": "https://disqus.com/",
-				"h3_text": "Disqus",
-				"p_text": "Add-on tools to power discussions"
+				"url": "https://disqus.com/",
+				"header": "Disqus",
+				"text": "Add-on tools to power discussions"
 			},
 			{
 				"image": "jekyll.ico",
-				"h3_href": "https://jekyllrb.com/",
-				"h3_text": "Jekyll",
-				"p_text": "Transform plain text into static websites and text"
+				"url": "https://jekyllrb.com/",
+				"header": "Jekyll",
+				"text": "Transform plain text into static websites and text"
 			},
 			{
 				"image": "jekyll.ico",
-				"h3_href": "http://jekyllrb.com/docs/configuration/",
-				"h3_text": "Jekyll",
-				"p_text": "Jekyll Configuration"
+				"url": "http://jekyllrb.com/docs/configuration/",
+				"header": "Jekyll",
+				"text": "Jekyll Configuration"
 			},
 			{
 				"image": "jekyll.ico",
-				"h3_href": "http://jekyllthemes.org/",
-				"h3_text": "Jekyll",
-				"p_text": "Jekyll Themes"
+				"url": "http://jekyllthemes.org/",
+				"header": "Jekyll",
+				"text": "Jekyll Themes"
 			},
 			{
 				"image": "aaaa-no-favicon.png",
-				"h3_href": "http://www.yaml.org/start.html",
-				"h3_text": "Yaml",
-				"p_text": "YAML is a human friendly data serialization standard for all programming languages."
+				"url": "http://www.yaml.org/start.html",
+				"header": "Yaml",
+				"text": "YAML is a human friendly data serialization standard for all programming languages."
 			},
 			{
 				"image": "markdown.png",
-				"h3_href": "https://kramdown.gettalong.org/",
-				"h3_text": "Kramdown",
-				"p_text": "Fast, pure-Ruby Markdown-superset converter"
+				"url": "https://kramdown.gettalong.org/",
+				"header": "Kramdown",
+				"text": "Fast, pure-Ruby Markdown-superset converter"
 			},
 			{
 				"image": "shopify.png",
-				"h3_href": "https://help.shopify.com/themes/liquid",
-				"h3_text": "Liquid",
-				"p_text": "Liquid documentation by Shopify"
+				"url": "https://help.shopify.com/themes/liquid",
+				"header": "Liquid",
+				"text": "Liquid documentation by Shopify"
 			},
 			{
 				"image": "jekyll.ico",
-				"h3_href": "http://jekyllrb.com/docs/templates/",
-				"h3_text": "Liquid",
-				"p_text": "Liquid documentation by Jekyll"
+				"url": "http://jekyllrb.com/docs/templates/",
+				"header": "Liquid",
+				"text": "Liquid documentation by Jekyll"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/Shopify/liquid/wiki",
-				"h3_text": "Liquid",
-				"p_text": "Liquid documentation on github"
+				"url": "https://github.com/Shopify/liquid/wiki",
+				"header": "Liquid",
+				"text": "Liquid documentation on github"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers",
-				"h3_text": "Liquid",
-				"p_text": "Liquid for Designers"
+				"url": "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers",
+				"header": "Liquid",
+				"text": "Liquid for Designers"
 			},
 			{
 				"image": "jekyll.ico",
-				"h3_href": "http://jekyllrb.com/docs/frontmatter/",
-				"h3_text": "Front Matter",
-				"p_text": "Front Matter documentation by Jekyll"
+				"url": "http://jekyllrb.com/docs/frontmatter/",
+				"header": "Front Matter",
+				"text": "Front Matter documentation by Jekyll"
 			},
 			{
 				"image": "formspree.png",
-				"h3_href": "https://formspree.io/",
-				"h3_text": "Form Spree",
-				"p_text": "Email forwarding from a post"
+				"url": "https://formspree.io/",
+				"header": "Form Spree",
+				"text": "Email forwarding from a post"
 			},
 			{
 				"image": "handlebars.png",
-				"h3_href": "http://handlebarsjs.com/",
-				"h3_text": "Handlebars",
-				"p_text": "Build semantic templates"
+				"url": "http://handlebarsjs.com/",
+				"header": "Handlebars",
+				"text": "Build semantic templates"
 			},
 			{
 				"image": "rouge.ico",
-				"h3_href": "http://rouge.jneen.net/",
-				"h3_text": "Rouge",
-				"p_text": "An elegant, extendable code highlighter"
+				"url": "http://rouge.jneen.net/",
+				"header": "Rouge",
+				"text": "An elegant, extendable code highlighter"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://devhints.io/Jekyll",
-				"h3_text": "Jekyll cheatsheet",
-				"p_text": "Jekyll cheatsheet"
+				"url": "https://devhints.io/Jekyll",
+				"header": "Jekyll cheatsheet",
+				"text": "Jekyll cheatsheet"
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-color-filter-outline",
-		"text": "Colors and Tools",
+		"title": "Colors and Tools",
 		"link": "colors",
 		"items": [
 			{
 				"image": "material-io.png",
-				"h3_href": "https://material.io/guidelines/",
-				"h3_text": "Material Design",
-				"p_text": "Material Design Guidelines"
+				"url": "https://material.io/guidelines/",
+				"header": "Material Design",
+				"text": "Material Design Guidelines"
 			},
 			{
 				"image": "material-io.png",
-				"h3_href": "https://material.io/color",
-				"h3_text": "Material Design",
-				"p_text": "Material Design Color Tool"
+				"url": "https://material.io/color",
+				"header": "Material Design",
+				"text": "Material Design Color Tool"
 			},
 			{
 				"image": "flatuicolors.png",
-				"h3_href": "http://flatuicolors.com/",
-				"h3_text": "Flat UI Colors 2",
-				"p_text": "A good starting point for choosing a flat design color for your next project"
+				"url": "http://flatuicolors.com/",
+				"header": "Flat UI Colors 2",
+				"text": "A good starting point for choosing a flat design color for your next project"
 			},
 			{
 				"image": "flatiucolors.ico",
-				"h3_href": "https://www.flatuicolors.net/",
-				"h3_text": "FlatUIColors.net",
-				"p_text": "FlatUIColors is a color palette that emerges from the current concept of flat design"
+				"url": "https://www.flatuicolors.net/",
+				"header": "FlatUIColors.net",
+				"text": "FlatUIColors is a color palette that emerges from the current concept of flat design"
 			},
 			{
 				"image": "materialpalette.jpg",
-				"h3_href": "http://www.materialpalette.com/",
-				"h3_text": "Material Palette",
-				"p_text": "Another great set of colors, inspired in material design. Generate and download your palette"
+				"url": "http://www.materialpalette.com/",
+				"header": "Material Palette",
+				"text": "Another great set of colors, inspired in material design. Generate and download your palette"
 			},
 			{
 				"image": "color-hex.ico",
-				"h3_href": "http://www.color-hex.com/",
-				"h3_text": "Color Hex Color Codes",
-				"p_text": "Color-hex gives extensive information about colors"
+				"url": "http://www.color-hex.com/",
+				"header": "Color Hex Color Codes",
+				"text": "Color-hex gives extensive information about colors"
 			},
 			{
 				"image": "beautycolorcode.ico",
-				"h3_href": "https://www.beautycolorcode.com/",
-				"h3_text": "About Color Hex",
-				"p_text": "Color Hex is a free color tool providing information about any color"
+				"url": "https://www.beautycolorcode.com/",
+				"header": "About Color Hex",
+				"text": "Color Hex is a free color tool providing information about any color"
 			},
 			{
 				"image": "colorhunt.gif",
-				"h3_href": "http://www.colorhunt.co/",
-				"h3_text": "Colorhunt Palettes",
-				"p_text": "Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes"
+				"url": "http://www.colorhunt.co/",
+				"header": "Colorhunt Palettes",
+				"text": "Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes"
 			},
 			{
 				"image": "lolcolors.svg",
-				"h3_href": "http://www.lolcolors.com/",
-				"h3_text": "LOL Colors Palettes",
-				"p_text": "Curated color palettes inspiration. Another source for great color palettes"
+				"url": "http://www.lolcolors.com/",
+				"header": "LOL Colors Palettes",
+				"text": "Curated color palettes inspiration. Another source for great color palettes"
 			},
 			{
 				"image": "uigradients.png",
-				"h3_href": "http://uigradients.com",
-				"h3_text": "UI Gradients",
-				"p_text": "Collection of beautiful color gradients for you to choose from and export to your project"
+				"url": "http://uigradients.com",
+				"header": "UI Gradients",
+				"text": "Collection of beautiful color gradients for you to choose from and export to your project"
 			},
 			{
 				"image": "paletton.png",
-				"h3_href": "http://paletton.com",
-				"h3_text": "Paletton",
-				"p_text": "A very popular tool which allows you to create color combinations that play well together"
+				"url": "http://paletton.com",
+				"header": "Paletton",
+				"text": "A very popular tool which allows you to create color combinations that play well together"
 			},
 			{
 				"image": "0to255.png",
-				"h3_href": "http://www.0to255.com/",
-				"h3_text": "0to255",
-				"p_text": "A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients"
+				"url": "http://www.0to255.com/",
+				"header": "0to255",
+				"text": "A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients"
 			},
 			{
 				"image": "css3factory.png",
-				"h3_href": "http://www.css3factory.com/linear-gradients/",
-				"h3_text": "CSS Gradient Generator",
-				"p_text": "CSS Gradient Generator"
+				"url": "http://www.css3factory.com/linear-gradients/",
+				"header": "CSS Gradient Generator",
+				"text": "CSS Gradient Generator"
 			},
 			{
 				"image": "adobe.ico",
-				"h3_href": "https://color.adobe.com/create/color-wheel",
-				"h3_text": "Adobe Color Wheel",
-				"p_text": "Adobe Color Wheel"
+				"url": "https://color.adobe.com/create/color-wheel",
+				"header": "Adobe Color Wheel",
+				"text": "Adobe Color Wheel"
 			},
 			{
 				"image": "w3schools.ico",
-				"h3_href": "https://www.w3schools.com/colors/colors_picker.asp",
-				"h3_text": "w3schools Colors",
-				"p_text": "w3schools Colors"
+				"url": "https://www.w3schools.com/colors/colors_picker.asp",
+				"header": "w3schools Colors",
+				"text": "w3schools Colors"
 			},
 			{
 				"image": "coolers.png",
-				"h3_href": "https://coolors.co/",
-				"h3_text": "Coolers",
-				"p_text": "Browse Color Schemes"
+				"url": "https://coolors.co/",
+				"header": "Coolers",
+				"text": "Browse Color Schemes"
 			},
 			{
 				"image": "colrd.ico",
-				"h3_href": "http://colrd.com/",
-				"h3_text": "Colrd",
-				"p_text": "Create and share color inspiration"
+				"url": "http://colrd.com/",
+				"header": "Colrd",
+				"text": "Create and share color inspiration"
 			},
 			{
 				"image": "colourco.ico",
-				"h3_href": "http://www.colourco.de/",
-				"h3_text": "Colourcode",
-				"p_text": "Create color combinations"
+				"url": "http://www.colourco.de/",
+				"header": "Colourcode",
+				"text": "Create color combinations"
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-cloud",
-		"text": "Content Delivery Network CDNs",
+		"title": "Content Delivery Network CDNs",
 		"link": "cdn",
 		"items": [
 			{
 				"image": "cdnjs.ico",
-				"h3_href": "https://cdnjs.com/",
-				"h3_text": "CDN",
-				"p_text": "Search from thousands of libraries"
+				"url": "https://cdnjs.com/",
+				"header": "CDN",
+				"text": "Search from thousands of libraries"
 			},
 			{
 				"image": "google-cloud.ico",
-				"h3_href": "https://cloud.google.com/cdn/",
-				"h3_text": "Google Cloud CDN",
-				"p_text": "Low-latency, low-cost content delivery using Google's global network."
+				"url": "https://cloud.google.com/cdn/",
+				"header": "Google Cloud CDN",
+				"text": "Low-latency, low-cost content delivery using Google's global network."
 			},
 			{
 				"image": "cloudfare.ico",
-				"h3_href": "https://www.cloudflare.com/cdn/",
-				"h3_text": "Cloudfare CDN",
-				"p_text": "Fast, Global Content Delivery Network."
+				"url": "https://www.cloudflare.com/cdn/",
+				"header": "Cloudfare CDN",
+				"text": "Fast, Global Content Delivery Network."
 			},
 			{
 				"image": "jsDelivr.ico",
-				"h3_href": "http://www.jsdelivr.com/",
-				"h3_text": "jsDelivr CDN",
-				"p_text": "A free super-fast CDN for developers and webmasters"
+				"url": "http://www.jsdelivr.com/",
+				"header": "jsDelivr CDN",
+				"text": "A free super-fast CDN for developers and webmasters"
 			},
 			{
 				"image": "keycdn.ico",
-				"h3_href": "https://www.keycdn.com/",
-				"h3_text": "Keycdn CDN",
-				"p_text": "A Simple, Fast & Reliable CDN."
+				"url": "https://www.keycdn.com/",
+				"header": "Keycdn CDN",
+				"text": "A Simple, Fast & Reliable CDN."
 			}
 		]
 	},
 	{
 		"icon": "ion-social-css3-outline",
-		"text": "CSS3",
+		"title": "CSS3",
 		"link": "css",
 		"items": [
 			{
 				"image": "mdn.png",
-				"h3_href": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
-				"h3_text": "CSS3 Reference by MDN",
-				"p_text": "As with HTML5, you don't need to know every CSS3 property. Use this reference instead."
+				"url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+				"header": "CSS3 Reference by MDN",
+				"text": "As with HTML5, you don't need to know every CSS3 property. Use this reference instead."
 			},
 			{
 				"image": "codrops.png",
-				"h3_href": "http://tympanus.net/codrops/css_reference/",
-				"h3_text": "CSS3 Reference by Codrops",
-				"p_text": "Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too."
+				"url": "http://tympanus.net/codrops/css_reference/",
+				"header": "CSS3 Reference by Codrops",
+				"text": "Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too."
 			},
 			{
 				"image": "tutplus.png",
-				"h3_href": "http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048",
-				"h3_text": "30 CSS Selectors by Tutplus",
-				"p_text": "I find myself using this handy list of the 30 most important CSS selectors from Tutplus all the time."
+				"url": "http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048",
+				"header": "30 CSS Selectors by Tutplus",
+				"text": "I find myself using this handy list of the 30 most important CSS selectors from Tutplus all the time."
 			},
 			{
 				"image": "animatecss.png",
-				"h3_href": "http://daneden.github.io/animate.css/",
-				"h3_text": "Animate.css",
-				"p_text": "Just-add-water CSS animations. A simple CSS library that lets you add animations with ease."
+				"url": "http://daneden.github.io/animate.css/",
+				"header": "Animate.css",
+				"text": "Just-add-water CSS animations. A simple CSS library that lets you add animations with ease."
 			},
 			{
 				"image": "responsivegrid.png",
-				"h3_href": "http://www.responsivegridsystem.com/",
-				"h3_text": "Responsive Grid System",
-				"p_text": "A quick, flexible and easy fluid grid for spectacularly easy responsive web design."
+				"url": "http://www.responsivegridsystem.com/",
+				"header": "Responsive Grid System",
+				"text": "A quick, flexible and easy fluid grid for spectacularly easy responsive web design."
 			},
 			{
 				"image": "css-guide.png",
-				"h3_href": "http://paulcpederson.com/articles/css-for-people-who-hate-css",
-				"h3_text": "CSS for People Who Hate CSS",
-				"p_text": "Excellent guide on how to write better, cleaner and more reusable CSS code."
+				"url": "http://paulcpederson.com/articles/css-for-people-who-hate-css",
+				"header": "CSS for People Who Hate CSS",
+				"text": "Excellent guide on how to write better, cleaner and more reusable CSS code."
 			},
 			{
 				"image": "1stwebdesigner.ico",
-				"h3_href": "http://1stwebdesigner.com/css3-text-effects-typography/",
-				"h3_text": "CSS3 Text Effects and Tutorials",
-				"p_text": "40 Creative CSS3 Text Effects and Tutorials"
+				"url": "http://1stwebdesigner.com/css3-text-effects-typography/",
+				"header": "CSS3 Text Effects and Tutorials",
+				"text": "40 Creative CSS3 Text Effects and Tutorials"
 			},
 			{
 				"image": "purecss.ico",
-				"h3_href": "https://purecss.io",
-				"h3_text": "Pure CSS modules",
-				"p_text": "PureCSS, A set of small, responsive CSS modules that you can use in every web project."
+				"url": "https://purecss.io",
+				"header": "Pure CSS modules",
+				"text": "PureCSS, A set of small, responsive CSS modules that you can use in every web project."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://vitalets.github.io/x-editable/",
-				"h3_text": "X-editable",
-				"p_text": "Create editable elements on your page, includes both popup and inline modes."
+				"url": "https://vitalets.github.io/x-editable/",
+				"header": "X-editable",
+				"text": "Create editable elements on your page, includes both popup and inline modes."
 			},
 			{
 				"image": "w3schools.ico",
-				"h3_href": "https://www.w3schools.com/css/default.asp",
-				"h3_text": "w3schools CSS",
-				"p_text": "w3schools CSS"
+				"url": "https://www.w3schools.com/css/default.asp",
+				"header": "w3schools CSS",
+				"text": "w3schools CSS"
 			},
 			{
 				"image": "materializecss.png",
-				"h3_href": "http://materializecss.com/",
-				"h3_text": "Materialize",
-				"p_text": "A modern responsive front-end framework based on Material Design"
+				"url": "http://materializecss.com/",
+				"header": "Materialize",
+				"text": "A modern responsive front-end framework based on Material Design"
 			},
 			{
 				"image": "clippy.png",
-				"h3_href": "http://bennettfeely.com/clippy/",
-				"h3_text": "Clippy",
-				"p_text": "CSS clip-path maker"
+				"url": "http://bennettfeely.com/clippy/",
+				"header": "Clippy",
+				"text": "CSS clip-path maker"
 			},
 			{
 				"image": "easings.png",
-				"h3_href": "https://easings.net/",
-				"h3_text": "CSS Easing Functions",
-				"p_text": "Choose the right easing function"
+				"url": "https://easings.net/",
+				"header": "CSS Easing Functions",
+				"text": "Choose the right easing function"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://cubic-bezier.com/",
-				"h3_text": "Cubic-bezier function generator",
-				"p_text": "Generate timing animation functions to use in CSS transitions and animations"
+				"url": "http://cubic-bezier.com/",
+				"header": "Cubic-bezier function generator",
+				"text": "Generate timing animation functions to use in CSS transitions and animations"
 			},
 			{
 				"image": "semantic-ui.png",
-				"h3_href": "https://semantic-ui.com/",
-				"h3_text": "Semantic UI",
-				"p_text": "Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML"
+				"url": "https://semantic-ui.com/",
+				"header": "Semantic UI",
+				"text": "Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML"
 			}
 		]
 	},
 	{
 		"icon": "ion-funnel",
-		"text": "Deployment",
+		"title": "Deployment",
 		"link": "deployment",
 		"items": [
 			{
 				"image": "webpack.ico",
-				"h3_href": "https://webpack.js.org",
-				"h3_text": "Webpack bundle scripts",
-				"p_text": "Webpack bundle scripts, styles etc"
+				"url": "https://webpack.js.org",
+				"header": "Webpack bundle scripts",
+				"text": "Webpack bundle scripts, styles etc"
 			},
 			{
 				"image": "webpack.ico",
-				"h3_href": "https://webpack.js.org/guides/",
-				"h3_text": "Webpack Guides",
-				"p_text": "List of Webpack Guides"
+				"url": "https://webpack.js.org/guides/",
+				"header": "Webpack Guides",
+				"text": "List of Webpack Guides"
 			},
 			{
 				"image": "webpack.ico",
-				"h3_href": "https://webpack.js.org/loaders/",
-				"h3_text": "Webpack loaders",
-				"p_text": "List of Webpack loaders"
+				"url": "https://webpack.js.org/loaders/",
+				"header": "Webpack loaders",
+				"text": "List of Webpack loaders"
 			},
 			{
 				"image": "travis-ci.png",
-				"h3_href": "https://travis-ci.org/",
-				"h3_text": "Travis CI",
-				"p_text": "Test and Deploy with Confidence"
+				"url": "https://travis-ci.org/",
+				"header": "Travis CI",
+				"text": "Test and Deploy with Confidence"
 			},
 			{
 				"image": "pm2.ico",
-				"h3_href": "http://pm2.keymetrics.io/",
-				"h3_text": "PM2",
-				"p_text": "Advanced, production process manager for Node.js"
+				"url": "http://pm2.keymetrics.io/",
+				"header": "PM2",
+				"text": "Advanced, production process manager for Node.js"
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/webpack-bundle-analyzer",
-				"h3_text": "webpack-bundle-analyzer",
-				"p_text": "Visualize size of webpack output files with an interactive zoomable treemap"
+				"url": "https://www.npmjs.com/package/webpack-bundle-analyzer",
+				"header": "webpack-bundle-analyzer",
+				"text": "Visualize size of webpack output files with an interactive zoomable treemap"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://chrisbateman.github.io/webpack-visualizer/",
-				"h3_text": "Webpack Visualizer",
-				"p_text": "Graphs for Webpack Bundles"
+				"url": "https://chrisbateman.github.io/webpack-visualizer/",
+				"header": "Webpack Visualizer",
+				"text": "Graphs for Webpack Bundles"
 			},
 			{
 				"image": "webpack-analyse.png",
-				"h3_href": "https://webpack.github.io/analyse",
-				"h3_text": "Webpack Analyse",
-				"p_text": "Analysis of Webpack Bundles"
+				"url": "https://webpack.github.io/analyse",
+				"header": "Webpack Analyse",
+				"text": "Analysis of Webpack Bundles"
 			}
 		]
 	},
 	{
 		"icon": "ion-wrench",
-		"text": "Developer Tools",
+		"title": "Developer Tools",
 		"link": "developer-tools",
 		"items": [
 			{
 				"image": "git.ico",
-				"h3_href": "https://git-scm.com/",
-				"h3_text": "Git",
-				"p_text": "Free and open source distributed version control system"
+				"url": "https://git-scm.com/",
+				"header": "Git",
+				"text": "Free and open source distributed version control system"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/",
-				"h3_text": "Github",
-				"p_text": "Git repositories"
+				"url": "https://github.com/",
+				"header": "Github",
+				"text": "Git repositories"
 			},
 			{
 				"image": "bitbucket.ico",
-				"h3_href": "https://bitbucket.org/",
-				"h3_text": "Bitbucket",
-				"p_text": "Git repositories"
+				"url": "https://bitbucket.org/",
+				"header": "Bitbucket",
+				"text": "Git repositories"
 			},
 			{
 				"image": "git-tower.ico",
-				"h3_href": "https://www.git-tower.com/blog/git-cheat-sheet/",
-				"h3_text": "Git Cheat Sheet",
-				"p_text": "Git Cheat Sheet"
+				"url": "https://www.git-tower.com/blog/git-cheat-sheet/",
+				"header": "Git Cheat Sheet",
+				"text": "Git Cheat Sheet"
 			},
 			{
 				"image": "sourcetree.ico",
-				"h3_href": "https://www.sourcetreeapp.com/",
-				"h3_text": "SourceTree",
-				"p_text": "A free visual Git and Hg client for Mac and Windows"
+				"url": "https://www.sourcetreeapp.com/",
+				"header": "SourceTree",
+				"text": "A free visual Git and Hg client for Mac and Windows"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://rogerdudler.github.io/git-guide/",
-				"h3_text": "Git Guide",
-				"p_text": "Simple Git Guide"
+				"url": "http://rogerdudler.github.io/git-guide/",
+				"header": "Git Guide",
+				"text": "Simple Git Guide"
 			},
 			{
 				"image": "snyk.png",
-				"h3_href": "https://snyk.io/",
-				"h3_text": "Snyk",
-				"p_text": "Continuously find & fix vulnerabilities in your dependencies"
+				"url": "https://snyk.io/",
+				"header": "Snyk",
+				"text": "Continuously find & fix vulnerabilities in your dependencies"
 			},
 			{
 				"image": "greenkeeper.ico",
-				"h3_href": "https://greenkeeper.io/",
-				"h3_text": "Greenkeeper.io",
-				"p_text": "Get safety & consistency with real-time monitoring and automatic updates for npm dependencies."
+				"url": "https://greenkeeper.io/",
+				"header": "Greenkeeper.io",
+				"text": "Get safety & consistency with real-time monitoring and automatic updates for npm dependencies."
 			},
 			{
 				"image": "caniuse.png",
-				"h3_href": "http://caniuse.com/",
-				"h3_text": "Can I Use?",
-				"p_text": "Up-to-date browser support tables for front-end technologies on desktop and mobile browsers."
+				"url": "http://caniuse.com/",
+				"header": "Can I Use?",
+				"text": "Up-to-date browser support tables for front-end technologies on desktop and mobile browsers."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://browserl.ist/",
-				"h3_text": "browserl.ist",
-				"p_text": "A page to display compatible browsers from a browserslist string."
+				"url": "https://browserl.ist/",
+				"header": "browserl.ist",
+				"text": "A page to display compatible browsers from a browserslist string."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://devhints.io/",
-				"h3_text": "Developer Cheatsheets",
-				"p_text": "A collection of cheatsheets/"
+				"url": "https://devhints.io/",
+				"header": "Developer Cheatsheets",
+				"text": "A collection of cheatsheets/"
 			}
 		]
 	},
 	{
 		"icon": "ion-settings",
-		"text": "Diagram Tools",
+		"title": "Diagram Tools",
 		"link": "diagram-tools",
 		"items": [
 			{
 				"image": "balsamiq.ico",
-				"h3_href": "https://balsamiq.com/",
-				"h3_text": "Balsamiq Mockups",
-				"p_text": "Excellent tool for drawing wireframes and mockups."
+				"url": "https://balsamiq.com/",
+				"header": "Balsamiq Mockups",
+				"text": "Excellent tool for drawing wireframes and mockups."
 			},
 			{
 				"image": "draw.png",
-				"h3_href": "https://www.draw.io/",
-				"h3_text": "draw.io",
-				"p_text": "Create flowcharts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more"
+				"url": "https://www.draw.io/",
+				"header": "draw.io",
+				"text": "Create flowcharts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more"
 			},
 			{
 				"image": "creately.png",
-				"h3_href": "https://creately.com/",
-				"h3_text": "Creately",
-				"p_text": "Excellent tool for drawing numerous diagram types, so many templates and an active community"
+				"url": "https://creately.com/",
+				"header": "Creately",
+				"text": "Excellent tool for drawing numerous diagram types, so many templates and an active community"
 			}
 		]
 	},
 	{
 		"icon": "ion-hammer",
-		"text": "Documentation Tools",
+		"title": "Documentation Tools",
 		"link": "documentation-tools",
 		"items": [
 			{
 				"image": "google-docs.ico",
-				"h3_href": "https://docs.google.com/",
-				"h3_text": "Google Docs",
-				"p_text": "Create and edit documents online, for free."
+				"url": "https://docs.google.com/",
+				"header": "Google Docs",
+				"text": "Create and edit documents online, for free."
 			},
 			{
 				"image": "gitbook.ico",
-				"h3_href": "https://www.gitbook.com/",
-				"h3_text": "GitBook",
-				"p_text": "GitBook helps your team write, collaborate and publish content online."
+				"url": "https://www.gitbook.com/",
+				"header": "GitBook",
+				"text": "GitBook helps your team write, collaborate and publish content online."
 			},
 			{
 				"image": "markdown.png",
-				"h3_href": "https://guides.github.com/features/mastering-markdown/",
-				"h3_text": "Mastering Markdown",
-				"p_text": "Straightforward Markdown Guide"
+				"url": "https://guides.github.com/features/mastering-markdown/",
+				"header": "Mastering Markdown",
+				"text": "Straightforward Markdown Guide"
 			},
 			{
 				"image": "markdown.png",
-				"h3_href": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
-				"h3_text": "Markdown Cheatsheet",
-				"p_text": "Markdown Cheatsheet"
+				"url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+				"header": "Markdown Cheatsheet",
+				"text": "Markdown Cheatsheet"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://assemble.io/docs/Cheatsheet-Markdown.html",
-				"h3_text": "Markdown Cheatsheet",
-				"p_text": "Markdown Cheatsheet"
+				"url": "http://assemble.io/docs/Cheatsheet-Markdown.html",
+				"header": "Markdown Cheatsheet",
+				"text": "Markdown Cheatsheet"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://gist.github.com/",
-				"h3_text": "Gists",
-				"p_text": "Great for code snippets and documentation"
+				"url": "https://gist.github.com/",
+				"header": "Gists",
+				"text": "Great for code snippets and documentation"
 			},
 			{
 				"image": "gisto.png",
-				"h3_href": "http://www.gistoapp.com/",
-				"h3_text": "Gisto Code Snippet Manager",
-				"p_text": "Great for gist code snippets and documentation"
+				"url": "http://www.gistoapp.com/",
+				"header": "Gisto Code Snippet Manager",
+				"text": "Great for gist code snippets and documentation"
 			},
 			{
 				"image": "evernote.ico",
-				"h3_href": "https://evernote.com/",
-				"h3_text": "Evernote Notes Manager",
-				"p_text": "Inspiration strikes anywhere. Evernote lets you capture, nurture, and share your ideas across any device."
+				"url": "https://evernote.com/",
+				"header": "Evernote Notes Manager",
+				"text": "Inspiration strikes anywhere. Evernote lets you capture, nurture, and share your ideas across any device."
 			},
 			{
 				"image": "lumio.ico",
-				"h3_href": "https://www.lumioapp.com/",
-				"h3_text": "Lumio",
-				"p_text": "Highlight, organize and share ideas."
+				"url": "https://www.lumioapp.com/",
+				"header": "Lumio",
+				"text": "Highlight, organize and share ideas."
 			}
 		]
 	},
 	{
 		"icon": "ion-edit",
-		"text": "Editor Tools",
+		"title": "Editor Tools",
 		"link": "editor-tools",
 		"items": [
 			{
 				"image": "visual-studio-code.ico",
-				"h3_href": "https://code.visualstudio.com/",
-				"h3_text": "Visual Studio Code",
-				"p_text": "Rich IDE"
+				"url": "https://code.visualstudio.com/",
+				"header": "Visual Studio Code",
+				"text": "Rich IDE"
 			},
 			{
 				"image": "visual-studio-code.ico",
-				"h3_href": "https://marketplace.visualstudio.com/",
-				"h3_text": "Visual Studio Code Marketplace",
-				"p_text": "Extensions for Visual Studio Code"
+				"url": "https://marketplace.visualstudio.com/",
+				"header": "Visual Studio Code Marketplace",
+				"text": "Extensions for Visual Studio Code"
 			},
 			{
 				"image": "eslint.png",
-				"h3_href": "http://eslint.org/",
-				"h3_text": "ESLint",
-				"p_text": "The pluggable linting utility for JavaScript and JSX"
+				"url": "http://eslint.org/",
+				"header": "ESLint",
+				"text": "The pluggable linting utility for JavaScript and JSX"
 			},
 			{
 				"image": "sublime.ico",
-				"h3_href": "https://www.sublimetext.com/",
-				"h3_text": "Sublime Text Editor",
-				"p_text": "A sophisticated text editor for code, markup and prose"
+				"url": "https://www.sublimetext.com/",
+				"header": "Sublime Text Editor",
+				"text": "A sophisticated text editor for code, markup and prose"
 			},
 			{
 				"image": "brackets.png",
-				"h3_href": "http://brackets.io/",
-				"h3_text": "Brackets Text Editor",
-				"p_text": "Excellent HTML editor"
+				"url": "http://brackets.io/",
+				"header": "Brackets Text Editor",
+				"text": "Excellent HTML editor"
 			},
 			{
 				"image": "emmet.ico",
-				"h3_href": "https://docs.emmet.io/cheat-sheet/",
-				"h3_text": "Emmet",
-				"p_text": "Useful tool for writing HTML"
+				"url": "https://docs.emmet.io/cheat-sheet/",
+				"header": "Emmet",
+				"text": "Useful tool for writing HTML"
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-lightbulb-outline",
-		"text": "Find Design Inspiration",
+		"title": "Find Design Inspiration",
 		"link": "design",
 		"items": [
 			{
 				"image": "dribbble.png",
-				"h3_href": "https://dribbble.com/",
-				"h3_text": "Dribbble",
-				"p_text": "The ultimate design inspiration resource, not just for web design. The show and tell for designers."
+				"url": "https://dribbble.com/",
+				"header": "Dribbble",
+				"text": "The ultimate design inspiration resource, not just for web design. The show and tell for designers."
 			},
 			{
 				"image": "landbook.jpg",
-				"h3_href": "http://land-book.com/",
-				"h3_text": "Land Book",
-				"p_text": "Product landing page gallery. My #1 inspiration resource when I build a landing page."
+				"url": "http://land-book.com/",
+				"header": "Land Book",
+				"text": "Product landing page gallery. My #1 inspiration resource when I build a landing page."
 			},
 			{
 				"image": "onepagelove.png",
-				"h3_href": "https://onepagelove.com/",
-				"h3_text": "One Page Love",
-				"p_text": "The ultimate showcase of delicious One Page websites."
+				"url": "https://onepagelove.com/",
+				"header": "One Page Love",
+				"text": "The ultimate showcase of delicious One Page websites."
 			},
 			{
 				"image": "siteinspire.png",
-				"h3_href": "http://www.siteinspire.com/",
-				"h3_text": "Site Inspire",
-				"p_text": "A showcase of the finest web and interactive design. Currently over 4900 websites."
+				"url": "http://www.siteinspire.com/",
+				"header": "Site Inspire",
+				"text": "A showcase of the finest web and interactive design. Currently over 4900 websites."
 			},
 			{
 				"image": "calltoidea.png",
-				"h3_href": "http://www.calltoidea.com/",
-				"h3_text": "Call To idea",
-				"p_text": "Get quick inspiration for common website elements such as forms, sliders, navigations, etc."
+				"url": "http://www.calltoidea.com/",
+				"header": "Call To idea",
+				"text": "Get quick inspiration for common website elements such as forms, sliders, navigations, etc."
 			},
 			{
 				"image": "mediaqueries.png",
-				"h3_href": "http://mediaqueri.es/",
-				"h3_text": "Media Queries",
-				"p_text": "A collection of responsively designed websites for inspiration."
+				"url": "http://mediaqueri.es/",
+				"header": "Media Queries",
+				"text": "A collection of responsively designed websites for inspiration."
 			},
 			{
 				"image": "templated.ico",
-				"h3_href": "https://templated.co/",
-				"h3_text": "Site Templates",
-				"p_text": "A collection of free, simple CSS, HTML5 & Responsive site templates"
+				"url": "https://templated.co/",
+				"header": "Site Templates",
+				"text": "A collection of free, simple CSS, HTML5 & Responsive site templates"
 			},
 			{
 				"image": "toptal.png",
-				"h3_href": "https://www.toptal.com/designers/subtlepatterns/",
-				"h3_text": "Subtle Patterns",
-				"p_text": "A collection of free, subtle background patterns"
+				"url": "https://www.toptal.com/designers/subtlepatterns/",
+				"header": "Subtle Patterns",
+				"text": "A collection of free, subtle background patterns"
 			},
 			{
 				"image": "colourlovers.ico",
-				"h3_href": "http://www.colourlovers.com/",
-				"h3_text": "ColourLovers",
-				"p_text": "Share Your Color Ideas & Inspiration"
+				"url": "http://www.colourlovers.com/",
+				"header": "ColourLovers",
+				"text": "Share Your Color Ideas & Inspiration"
 			}
 		]
 	},
 	{
 		"icon": "ion-hammer",
-		"text": "Fonts and Typography Tools",
+		"title": "Fonts and Typography Tools",
 		"link": "fonts",
 		"items": [
 			{
 				"image": "googlefonts.png",
-				"h3_href": "https://www.google.com/fonts",
-				"h3_text": "Google Fonts",
-				"p_text": "The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts."
+				"url": "https://www.google.com/fonts",
+				"header": "Google Fonts",
+				"text": "The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts."
 			},
 			{
 				"image": "fontsquirrel.jpg",
-				"h3_href": "https://www.fontsquirrel.com/",
-				"h3_text": "Fontsquirrel",
-				"p_text": "The best, 100% free fonts for commercial use. Another well-known huge font library."
+				"url": "https://www.fontsquirrel.com/",
+				"header": "Fontsquirrel",
+				"text": "The best, 100% free fonts for commercial use. Another well-known huge font library."
 			},
 			{
 				"image": "creativebloq.jpeg",
-				"h3_href": "http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380",
-				"h3_text": "The 100 best free fonts by Creative Bloq",
-				"p_text": "List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects."
+				"url": "http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380",
+				"header": "The 100 best free fonts by Creative Bloq",
+				"text": "List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects."
 			},
 			{
 				"image": "myfonts.png",
-				"h3_href": "http://www.myfonts.com/",
-				"h3_text": "MyFonts",
-				"p_text": "World's largest library of premium fonts, if you need more than free fonts for your next project."
+				"url": "http://www.myfonts.com/",
+				"header": "MyFonts",
+				"text": "World's largest library of premium fonts, if you need more than free fonts for your next project."
 			},
 			{
 				"image": "typetester.png",
-				"h3_href": "https://www.typetester.org/",
-				"h3_text": "TypeTester",
-				"p_text": "Web application for testing and comparing more than 2200 typefaces."
+				"url": "https://www.typetester.org/",
+				"header": "TypeTester",
+				"text": "Web application for testing and comparing more than 2200 typefaces."
 			},
 			{
 				"image": "typeguide.svg",
-				"h3_href": "http://www.typogui.de/",
-				"h3_text": "A Pocket Guide to Typography",
-				"p_text": "Amazing resource to learn about typography. Learn typography basics in less than 30 minutes."
+				"url": "http://www.typogui.de/",
+				"header": "A Pocket Guide to Typography",
+				"text": "Amazing resource to learn about typography. Learn typography basics in less than 30 minutes."
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-game-controller-b",
-		"text": "Game Assets",
+		"title": "Game Assets",
 		"link": "game-assets",
 		"items": [
 			{
 				"image": "itch-io.ico",
-				"h3_href": "https://itch.io/game-assets",
-				"h3_text": "Game Assets",
-				"p_text": "Huge Collection of Game Assets"
+				"url": "https://itch.io/game-assets",
+				"header": "Game Assets",
+				"text": "Huge Collection of Game Assets"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://www.superflashbros.net/as3sfxr/",
-				"h3_text": "Sounds",
-				"p_text": "Create your own customized sounds"
+				"url": "http://www.superflashbros.net/as3sfxr/",
+				"header": "Sounds",
+				"text": "Create your own customized sounds"
 			}
 		]
 	},
 	{
 		"icon": "ion-social-html5-outline",
-		"text": "HTML5 Resources",
+		"title": "HTML5 Resources",
 		"link": "html",
 		"items": [
 			{
 				"image": "mdn.png",
-				"h3_href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
-				"h3_text": "HTML5 Reference by MDN",
-				"p_text": "You don't need to know every HTML5 element. I just use this excellent reference all the time."
+				"url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+				"header": "HTML5 Reference by MDN",
+				"text": "You don't need to know every HTML5 element. I just use this excellent reference all the time."
 			},
 			{
 				"image": "css-tricks-3.png",
-				"h3_href": "https://css-tricks.com/snippets/html/glyphs/",
-				"h3_text": "HTML Entity Reference by CSS-Tricks",
-				"p_text": "Super useful reference, gives you HTML entitiy name, numeric code, hex code and ISO code."
+				"url": "https://css-tricks.com/snippets/html/glyphs/",
+				"header": "HTML Entity Reference by CSS-Tricks",
+				"text": "Super useful reference, gives you HTML entitiy name, numeric code, hex code and ISO code."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://vitalets.github.io/x-editable/",
-				"h3_text": "X-editable",
-				"p_text": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery."
+				"url": "https://vitalets.github.io/x-editable/",
+				"header": "X-editable",
+				"text": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery."
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-paperplane-outline",
-		"text": "Icons and Tools",
+		"title": "Icons and Tools",
 		"link": "icons",
 		"items": [
 			{
 				"image": "ionicons.png",
-				"h3_href": "http://ionicons.com/",
-				"h3_text": "Ionicons",
-				"p_text": "#1 icon font, 100% free even for commercial usage."
+				"url": "http://ionicons.com/",
+				"header": "Ionicons",
+				"text": "#1 icon font, 100% free even for commercial usage."
 			},
 			{
 				"image": "fontawesome.ico",
-				"h3_href": "http://fontawesome.io/",
-				"h3_text": "Font Awesome",
-				"p_text": "Another highly popular icon font, consisting of 628 icons spread across several categories."
+				"url": "http://fontawesome.io/",
+				"header": "Font Awesome",
+				"text": "Another highly popular icon font, consisting of 628 icons spread across several categories."
 			},
 			{
 				"image": "flaticon.png",
-				"h3_href": "http://www.flaticon.com/",
-				"h3_text": "Flaticon",
-				"p_text": "The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable."
+				"url": "http://www.flaticon.com/",
+				"header": "Flaticon",
+				"text": "The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable."
 			},
 			{
 				"image": "iconmonstr.png",
-				"h3_href": "http://iconmonstr.com/",
-				"h3_text": "Iconmonstr",
-				"p_text": "Over 3400 free and simple icons in 246 collections, all searchable."
+				"url": "http://iconmonstr.com/",
+				"header": "Iconmonstr",
+				"text": "Over 3400 free and simple icons in 246 collections, all searchable."
 			},
 			{
 				"image": "icons8.png",
-				"h3_href": "https://icons8.com/",
-				"h3_text": "Icons8",
-				"p_text": "A truly premium icon set with 24,600 icons in any size and format."
+				"url": "https://icons8.com/",
+				"header": "Icons8",
+				"text": "A truly premium icon set with 24,600 icons in any size and format."
 			},
 			{
 				"image": "icon54.png",
-				"h3_href": "https://icon54.com/",
-				"h3_text": "Icon 54",
-				"p_text": "2100 Vector Icons for iOS, Android, Websites & Apps. Drawn by hand and designed to perfection."
+				"url": "https://icon54.com/",
+				"header": "Icon 54",
+				"text": "2100 Vector Icons for iOS, Android, Websites & Apps. Drawn by hand and designed to perfection."
 			},
 			{
 				"image": "swifticons.png",
-				"h3_href": "http://swifticons.com/",
-				"h3_text": "Swift Icons",
-				"p_text": "2104 high quality icon set, covering 19 categories in 4  styles: outlined, filled, colored & flat."
+				"url": "http://swifticons.com/",
+				"header": "Swift Icons",
+				"text": "2104 high quality icon set, covering 19 categories in 4  styles: outlined, filled, colored & flat."
 			},
 			{
 				"image": "iconjar.jpg",
-				"h3_href": "http://geticonjar.com/",
-				"h3_text": "Iconjar",
-				"p_text": "A Mac app to organize, search and use icons the easy way. Works with Sketch, PS and AI."
+				"url": "http://geticonjar.com/",
+				"header": "Iconjar",
+				"text": "A Mac app to organize, search and use icons the easy way. Works with Sketch, PS and AI."
 			},
 			{
 				"image": "fontastic.png",
-				"h3_href": "http://fontastic.me/",
-				"h3_text": "Fontastic",
-				"p_text": "Create a customized icon font from your icons. Choose from 9000 icons or import your own."
+				"url": "http://fontastic.me/",
+				"header": "Fontastic",
+				"text": "Create a customized icon font from your icons. Choose from 9000 icons or import your own."
 			},
 			{
 				"image": "linea.ico",
-				"h3_href": "http://linea.io/",
-				"h3_text": "Linea free iconset",
-				"p_text": "Free outline iconset featuring 730+ Icons."
+				"url": "http://linea.io/",
+				"header": "Linea free iconset",
+				"text": "Free outline iconset featuring 730+ Icons."
 			},
 			{
 				"image": "icomoon.ico",
-				"h3_href": "https://icomoon.io/",
-				"h3_text": "IcoMoon",
-				"p_text": "Pixel Perfect Icon Solutions."
+				"url": "https://icomoon.io/",
+				"header": "IcoMoon",
+				"text": "Pixel Perfect Icon Solutions."
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-camera-outline",
-		"text": "Images and Videos",
+		"title": "Images and Videos",
 		"link": "images-videos",
 		"items": [
 			{
 				"image": "youtube.ico",
-				"h3_href": "https://www.youtube.com",
-				"h3_text": "Youtube",
-				"p_text": "Huge repository of videos"
+				"url": "https://www.youtube.com",
+				"header": "Youtube",
+				"text": "Huge repository of videos"
 			},
 			{
 				"image": "vimeo.ico",
-				"h3_href": "https://vimeo.com/",
-				"h3_text": "Vimeo",
-				"p_text": "More videos"
+				"url": "https://vimeo.com/",
+				"header": "Vimeo",
+				"text": "More videos"
 			},
 			{
 				"image": "unsplash.svg",
-				"h3_href": "https://unsplash.com/",
-				"h3_text": "Unsplash",
-				"p_text": "My #1 resource for free high-resolution photos. 10 new photos every 10 days."
+				"url": "https://unsplash.com/",
+				"header": "Unsplash",
+				"text": "My #1 resource for free high-resolution photos. 10 new photos every 10 days."
 			},
 			{
 				"image": "thestocks.jpg",
-				"h3_href": "http://thestocks.im/",
-				"h3_text": "The Stocks",
-				"p_text": "The best royalty free stock photos from multiple resources, all in one place."
+				"url": "http://thestocks.im/",
+				"header": "The Stocks",
+				"text": "The best royalty free stock photos from multiple resources, all in one place."
 			},
 			{
 				"image": "isorepublic.png",
-				"h3_href": "http://isorepublic.com/",
-				"h3_text": "ISO Republic",
-				"p_text": "Free and premium stock photos for your website. Easily searchable by topic."
+				"url": "http://isorepublic.com/",
+				"header": "ISO Republic",
+				"text": "Free and premium stock photos for your website. Easily searchable by topic."
 			},
 			{
 				"image": "pixaby.png",
-				"h3_href": "https://pixabay.com/en/",
-				"h3_text": "Pixaby",
-				"p_text": "Over 620,000 free stock photos, vectors and art illustrations you can use anywhere."
+				"url": "https://pixabay.com/en/",
+				"header": "Pixaby",
+				"text": "Over 620,000 free stock photos, vectors and art illustrations you can use anywhere."
 			},
 			{
 				"image": "subtlepatterns.png",
-				"h3_href": "http://subtlepatterns.com/",
-				"h3_text": "Subtle Patterns",
-				"p_text": "High quality resource of tilable textured patterns, completely free to use."
+				"url": "http://subtlepatterns.com/",
+				"header": "Subtle Patterns",
+				"text": "High quality resource of tilable textured patterns, completely free to use."
 			},
 			{
 				"image": "iStock.png",
-				"h3_href": "http://www.istockphoto.com/",
-				"h3_text": "iStock",
-				"p_text": "Millions of royalty-free images, illustrations, videos, and music clips at ridiculously great prices."
+				"url": "http://www.istockphoto.com/",
+				"header": "iStock",
+				"text": "Millions of royalty-free images, illustrations, videos, and music clips at ridiculously great prices."
 			},
 			{
 				"image": "randomuser.png",
-				"h3_href": "https://randomuser.me/",
-				"h3_text": "Random User Generator",
-				"p_text": "Generate random user data, including photos. Like Lorem Ipsum, but for people."
+				"url": "https://randomuser.me/",
+				"header": "Random User Generator",
+				"text": "Generate random user data, including photos. Like Lorem Ipsum, but for people."
 			},
 			{
 				"image": "coverr.png",
-				"h3_href": "http://www.coverr.co/",
-				"h3_text": "Coverr",
-				"p_text": "Best resource for beautiful and free videos for your website. 7 new videos added every monday."
+				"url": "http://www.coverr.co/",
+				"header": "Coverr",
+				"text": "Best resource for beautiful and free videos for your website. 7 new videos added every monday."
 			},
 			{
 				"image": "startupstock.png",
-				"h3_href": "http://startupstockphotos.com/",
-				"h3_text": "Startup Stock Photos",
-				"p_text": "Lots of great pictures of startup offices, people, devices and more. I love it."
+				"url": "http://startupstockphotos.com/",
+				"header": "Startup Stock Photos",
+				"text": "Lots of great pictures of startup offices, people, devices and more. I love it."
 			},
 			{
 				"image": "placeit.png",
-				"h3_href": "https://placeit.net/",
-				"h3_text": "PlaceIt",
-				"p_text": "Instant iPhone and Macbook mockups. Just place your screenshot on a device, no Photoshop."
+				"url": "https://placeit.net/",
+				"header": "PlaceIt",
+				"text": "Instant iPhone and Macbook mockups. Just place your screenshot on a device, no Photoshop."
 			},
 			{
 				"image": "canva.png",
-				"h3_href": "https://www.canva.com/",
-				"h3_text": "Canva",
-				"p_text": "Easily create beautiful designs with drag-and-drop features and professional layouts."
+				"url": "https://www.canva.com/",
+				"header": "Canva",
+				"text": "Easily create beautiful designs with drag-and-drop features and professional layouts."
 			},
 			{
 				"image": "picsum.ico",
-				"h3_href": "https://picsum.photos/",
-				"h3_text": "Lorem Picsum",
-				"p_text": "Lorem Ipsum but for photos"
+				"url": "https://picsum.photos/",
+				"header": "Lorem Picsum",
+				"text": "Lorem Ipsum but for photos"
 			},
 			{
 				"image": "lorempixel.ico",
-				"h3_href": "http://lorempixel.com/",
-				"h3_text": "lorempixel",
-				"p_text": "Placeholder Images for every case. Webdesign or Print."
+				"url": "http://lorempixel.com/",
+				"header": "lorempixel",
+				"text": "Placeholder Images for every case. Webdesign or Print."
 			}
 		]
 	},
 	{
 		"icon": "ion-social-javascript-outline",
-		"text": "JavaScript Resources",
+		"title": "JavaScript Resources",
 		"link": "javascript",
 		"items": [
 			{
 				"image": "facebook.ico",
-				"h3_href": "https://developers.facebook.com/",
-				"h3_text": "Facebook for Developers",
-				"p_text": "Build apps with Facebook"
+				"url": "https://developers.facebook.com/",
+				"header": "Facebook for Developers",
+				"text": "Build apps with Facebook"
 			},
 			{
 				"image": "mdn.png",
-				"h3_href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
-				"h3_text": "JavaScript Reference by MDN",
-				"p_text": "Another reference by MDN, this one is for JavaScript. This is pretty advanced stuff."
+				"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+				"header": "JavaScript Reference by MDN",
+				"text": "Another reference by MDN, this one is for JavaScript. This is pretty advanced stuff."
 			},
 			{
 				"image": "mdn.png",
-				"h3_href": "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence",
-				"h3_text": "JavaScript Operator Precedence Table",
-				"p_text": "Very handy cheatsheet to determine which JavaScript operators are evaluated first."
+				"url": "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence",
+				"header": "JavaScript Operator Precedence Table",
+				"text": "Very handy cheatsheet to determine which JavaScript operators are evaluated first."
 			},
 			{
 				"image": "mdn.png",
-				"h3_href": "https://developer.mozilla.org/en-US/docs/Web/Events",
-				"h3_text": "JavaScript Event Reference",
-				"p_text": "Handy reference list of all DOM events with explanations, nicely categorized."
+				"url": "https://developer.mozilla.org/en-US/docs/Web/Events",
+				"header": "JavaScript Event Reference",
+				"text": "Handy reference list of all DOM events with explanations, nicely categorized."
 			},
 			{
 				"image": "hubspot.png",
-				"h3_href": "http://youmightnotneedjquery.com/",
-				"h3_text": "DOM Manipulation Reference",
-				"p_text": "Called \"You Might Not Need jQuery\", but I use this as a complete DOM manipulation reference."
+				"url": "http://youmightnotneedjquery.com/",
+				"header": "DOM Manipulation Reference",
+				"text": "Called \"You Might Not Need jQuery\", but I use this as a complete DOM manipulation reference."
 			},
 			{
 				"image": "keycodes.jpg",
-				"h3_href": "http://keycodes.atjayjo.com/",
-				"h3_text": "JavaScript KeyCodes Reference",
-				"p_text": "Get keyboard codes, unicodes and keycodes. Vital reference for keypress event handling."
+				"url": "http://keycodes.atjayjo.com/",
+				"header": "JavaScript KeyCodes Reference",
+				"text": "Get keyboard codes, unicodes and keycodes. Vital reference for keypress event handling."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/rwaldron/idiomatic.js",
-				"h3_text": "Principles of Writing Good JavaScript",
-				"p_text": "While I don't follow this 100%, it's good to have a style guide to write better code."
+				"url": "https://github.com/rwaldron/idiomatic.js",
+				"header": "Principles of Writing Good JavaScript",
+				"text": "While I don't follow this 100%, it's good to have a style guide to write better code."
 			},
 			{
 				"image": "js-patterns.png",
-				"h3_href": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
-				"h3_text": "JavaScript Design Patterns",
-				"p_text": "For more advanced developers: learn all common JavaScript design patterns. Perfect reference."
+				"url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+				"header": "JavaScript Design Patterns",
+				"text": "For more advanced developers: learn all common JavaScript design patterns. Perfect reference."
 			},
 			{
 				"image": "es6-compat.png",
-				"h3_href": "https://kangax.github.io/compat-table/es6/",
-				"h3_text": "ES6 Browser Compatibility Table",
-				"p_text": "Check out all the new ES2015/ES6 features supported by the most popular browsers."
+				"url": "https://kangax.github.io/compat-table/es6/",
+				"header": "ES6 Browser Compatibility Table",
+				"text": "Check out all the new ES2015/ES6 features supported by the most popular browsers."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://usejsdoc.org/",
-				"h3_text": "@use JSDoc",
-				"p_text": "Tool for documenting Javascript."
+				"url": "http://usejsdoc.org/",
+				"header": "@use JSDoc",
+				"text": "Tool for documenting Javascript."
 			},
 			{
 				"image": "momentjs.png",
-				"h3_href": "https://momentjs.com/",
-				"h3_text": "Moment.js",
-				"p_text": "Parse, validate, manipulate, and display dates and times"
+				"url": "https://momentjs.com/",
+				"header": "Moment.js",
+				"text": "Parse, validate, manipulate, and display dates and times"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://bigocheatsheet.com/",
-				"h3_text": "Know Thy Complexities",
-				"p_text": "Big-O complexities of common algorithms used in Computer Science."
+				"url": "http://bigocheatsheet.com/",
+				"header": "Know Thy Complexities",
+				"text": "Big-O complexities of common algorithms used in Computer Science."
 			}
 		]
 	},
 	{
 		"icon": "ion-social-nodejs",
-		"text": "Node",
+		"title": "Node",
 		"link": "node",
 		"items": [
 			{
 				"image": "nodejs.png",
-				"h3_href": "https://nodejs.org/en/",
-				"h3_text": "NodeJS",
-				"p_text": "NodeJS"
+				"url": "https://nodejs.org/en/",
+				"header": "NodeJS",
+				"text": "NodeJS"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/nodejs",
-				"h3_text": "NodeJS on github",
-				"p_text": "Node.js Foundation"
+				"url": "https://github.com/nodejs",
+				"header": "NodeJS on github",
+				"text": "Node.js Foundation"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/joyent",
-				"h3_text": "NodeJS on github",
-				"p_text": "Joyent"
+				"url": "https://github.com/joyent",
+				"header": "NodeJS on github",
+				"text": "Joyent"
 			},
 			{
 				"image": "expressjs.png",
-				"h3_href": "http://expressjs.com/",
-				"h3_text": "Express",
-				"p_text": "Fast, unopinionated, minimalist web framework for Node.js"
+				"url": "http://expressjs.com/",
+				"header": "Express",
+				"text": "Fast, unopinionated, minimalist web framework for Node.js"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/expressjs/body-parser",
-				"h3_text": "ExpressJS Body Parser",
-				"p_text": "Node.js body parsing middleware."
+				"url": "https://github.com/expressjs/body-parser",
+				"header": "ExpressJS Body Parser",
+				"text": "Node.js body parsing middleware."
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/expressjs/morgan",
-				"h3_text": "Morgan",
-				"p_text": "HTTP request logger middleware for node.js"
+				"url": "https://github.com/expressjs/morgan",
+				"header": "Morgan",
+				"text": "HTTP request logger middleware for node.js"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/winstonjs/winston",
-				"h3_text": "Winston Logging Library",
-				"p_text": "A multi-transport async logging library for node.js"
+				"url": "https://github.com/winstonjs/winston",
+				"header": "Winston Logging Library",
+				"text": "A multi-transport async logging library for node.js"
 			},
 			{
 				"image": "nodemailer.ico",
-				"h3_href": "https://nodemailer.com/",
-				"h3_text": "Nodemailer",
-				"p_text": "Send emails"
+				"url": "https://nodemailer.com/",
+				"header": "Nodemailer",
+				"text": "Send emails"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/remy/nodemon",
-				"h3_text": "Nodemon",
-				"p_text": "Automatically restart your node application on code changed"
+				"url": "https://github.com/remy/nodemon",
+				"header": "Nodemon",
+				"text": "Automatically restart your node application on code changed"
 			},
 			{
 				"image": "postman.ico",
-				"h3_href": "https://www.getpostman.com/",
-				"h3_text": "Postman",
-				"p_text": "RestFul API development tool"
+				"url": "https://www.getpostman.com/",
+				"header": "Postman",
+				"text": "RestFul API development tool"
 			},
 			{
 				"image": "mocha.ico",
-				"h3_href": "https://www.mocha.org/",
-				"h3_text": "Mocha",
-				"p_text": "Mocha is a JavaScript test framework running on Node.js and in the browser."
+				"url": "https://www.mocha.org/",
+				"header": "Mocha",
+				"text": "Mocha is a JavaScript test framework running on Node.js and in the browser."
 			},
 			{
 				"image": "chai.ico",
-				"h3_href": "http://chaijs.com/",
-				"h3_text": "Chai Assertion Library",
-				"p_text": "Chai is a BDD / TDD assertion library for node and the browser."
+				"url": "http://chaijs.com/",
+				"header": "Chai Assertion Library",
+				"text": "Chai is a BDD / TDD assertion library for node and the browser."
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/faker",
-				"h3_text": "Faker",
-				"p_text": "Fake data for integration testing"
+				"url": "https://www.npmjs.com/package/faker",
+				"header": "Faker",
+				"text": "Fake data for integration testing"
 			},
 			{
 				"image": "passportjs.png",
-				"h3_href": "http://passportjs.org/",
-				"h3_text": "Passport",
-				"p_text": "Authentication middleware for NodeJS"
+				"url": "http://passportjs.org/",
+				"header": "Passport",
+				"text": "Authentication middleware for NodeJS"
 			},
 			{
 				"image": "jwt.png",
-				"h3_href": "https://jwt.io/",
-				"h3_text": "JWT",
-				"p_text": "JSON Web Tokens are a method for securely representing claims between two parties."
+				"url": "https://jwt.io/",
+				"header": "JWT",
+				"text": "JSON Web Tokens are a method for securely representing claims between two parties."
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/joi",
-				"h3_text": "Joi",
-				"p_text": "Object schema description language and validator for JavaScript objects."
+				"url": "https://www.npmjs.com/package/joi",
+				"header": "Joi",
+				"text": "Object schema description language and validator for JavaScript objects."
 			}
 		]
 	},
 	{
 		"icon": "ion-cube",
-		"text": "NoSQL",
+		"title": "NoSQL",
 		"link": "node",
 		"items": [
 			{
 				"image": "mongodb.ico",
-				"h3_href": "https://www.mongodb.com/",
-				"h3_text": "MongoDB",
-				"p_text": "MongoDB"
+				"url": "https://www.mongodb.com/",
+				"header": "MongoDB",
+				"text": "MongoDB"
 			},
 			{
 				"image": "mongoChef.png",
-				"h3_href": "https://studio3t.com/",
-				"h3_text": "Studio #3T for MongoDB",
-				"p_text": "MongoDB GUI"
+				"url": "https://studio3t.com/",
+				"header": "Studio #3T for MongoDB",
+				"text": "MongoDB GUI"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://mongoosejs.com/",
-				"h3_text": "Mongoose",
-				"p_text": "Elegant mongodb object modeling for node.js"
+				"url": "http://mongoosejs.com/",
+				"header": "Mongoose",
+				"text": "Elegant mongodb object modeling for node.js"
 			},
 			{
 				"image": "mLab-logo-dark.svg",
-				"h3_href": "https://www.mlab.com",
-				"h3_text": "mLab",
-				"p_text": "MongoDB in the Cloud"
+				"url": "https://www.mlab.com",
+				"header": "mLab",
+				"text": "MongoDB in the Cloud"
 			}
 		]
 	},
 	{
 		"icon": "ion-social-nodejs",
-		"text": "Node Package Manager",
+		"title": "Node Package Manager",
 		"link": "npm",
 		"items": [
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/",
-				"h3_text": "NPM",
-				"p_text": "Node Package Manager"
+				"url": "https://www.npmjs.com/",
+				"header": "NPM",
+				"text": "Node Package Manager"
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/jQuery",
-				"h3_text": "jQuery NPM",
-				"p_text": "jQuery packaged for NodeJS"
+				"url": "https://www.npmjs.com/package/jQuery",
+				"header": "jQuery NPM",
+				"text": "jQuery packaged for NodeJS"
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/json-server",
-				"h3_text": "JSON Server",
-				"p_text": "Full fake REST API with zero coding"
+				"url": "https://www.npmjs.com/package/json-server",
+				"header": "JSON Server",
+				"text": "Full fake REST API with zero coding"
 			}
 		]
 	},
 	{
 		"icon": "ion-wrench",
-		"text": "Online Coding Sites",
+		"title": "Online Coding Sites",
 		"link": "online-coding",
 		"items": [
 			{
 				"image": "codesandbox.svg",
-				"h3_href": "https://codesandbox.io",
-				"h3_text": "CodeSandBox",
-				"p_text": "Create web applications from prototype to deployment"
+				"url": "https://codesandbox.io",
+				"header": "CodeSandBox",
+				"text": "Create web applications from prototype to deployment"
 			},
 			{
 				"image": "codepen.ico",
-				"h3_href": "http://codepen.io/",
-				"h3_text": "Codepen",
-				"p_text": "Lots of Pens to search and review"
+				"url": "http://codepen.io/",
+				"header": "Codepen",
+				"text": "Lots of Pens to search and review"
 			},
 			{
 				"image": "jsbin.png",
-				"h3_href": "http://jsbin.com",
-				"h3_text": "jsbin",
-				"p_text": "Keep your bins here..."
+				"url": "http://jsbin.com",
+				"header": "jsbin",
+				"text": "Keep your bins here..."
 			},
 			{
 				"image": "glitch.ico",
-				"h3_href": "https://glitch.com",
-				"h3_text": "Glitch",
-				"p_text": "Glitch is a Cloud based Node environment"
+				"url": "https://glitch.com",
+				"header": "Glitch",
+				"text": "Glitch is a Cloud based Node environment"
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-loop",
-		"text": "Planning, Testing, Optimization and Deployment",
+		"title": "Planning, Testing, Optimization and Deployment",
 		"link": "deployment",
 		"items": [
 			{
 				"image": "w3c.png",
-				"h3_href": "https://validator.w3.org/",
-				"h3_text": "HTML Validator by W3C",
-				"p_text": "Check if your HTML markup is valid and contains no errors. Official W3C tool."
+				"url": "https://validator.w3.org/",
+				"header": "HTML Validator by W3C",
+				"text": "Check if your HTML markup is valid and contains no errors. Official W3C tool."
 			},
 			{
 				"image": "w3c.png",
-				"h3_href": "https://jigsaw.w3.org/css-validator/",
-				"h3_text": "CSS Validator by W3C",
-				"p_text": "Check if your CSS code is valid and contains no errors. Official W3C tool."
+				"url": "https://jigsaw.w3.org/css-validator/",
+				"header": "CSS Validator by W3C",
+				"text": "Check if your CSS code is valid and contains no errors. Official W3C tool."
 			},
 			{
 				"image": "favicongenerator.png",
-				"h3_href": "http://realfavicongenerator.net/",
-				"h3_text": "Real Favicon Generator",
-				"p_text": "Just upload an image and this tool creates favicons for your website for all browsers and all platforms."
+				"url": "http://realfavicongenerator.net/",
+				"header": "Real Favicon Generator",
+				"text": "Just upload an image and this tool creates favicons for your website for all browsers and all platforms."
 			},
 			{
 				"image": "websiteplanet.png",
-				"h3_href": "https://www.websiteplanet.com/webtools/favicon-generator/",
-				"h3_text": "Favicon Generator",
-				"p_text": "Create favicons for your website for all browsers and all platforms."
+				"url": "https://www.websiteplanet.com/webtools/favicon-generator/",
+				"header": "Favicon Generator",
+				"text": "Create favicons for your website for all browsers and all platforms."
 			},
 			{
 				"image": "usabilitychecklist.ico",
-				"h3_href": "https://stayintech.com/info/UX",
-				"h3_text": "Usability checklist",
-				"p_text": "Catch common usability problems of your website before you deploy it. Very useful."
+				"url": "https://stayintech.com/info/UX",
+				"header": "Usability checklist",
+				"text": "Catch common usability problems of your website before you deploy it. Very useful."
 			},
 			{
 				"image": "varvy.png",
-				"h3_href": "https://varvy.com/",
-				"h3_text": "Varvy SEO, Speed and Mobile Tools",
-				"p_text": "Checks your URL for a wide range of problems"
+				"url": "https://varvy.com/",
+				"header": "Varvy SEO, Speed and Mobile Tools",
+				"text": "Checks your URL for a wide range of problems"
 			},
 			{
 				"image": "googledev.png",
-				"h3_href": "https://testmysite.thinkwithgoogle.com/",
-				"h3_text": "Google Mobile-Friendly Test",
-				"p_text": "Test if your webpage has a mobile-friendly design, according to Google's ranking factors."
+				"url": "https://testmysite.thinkwithgoogle.com/",
+				"header": "Google Mobile-Friendly Test",
+				"text": "Test if your webpage has a mobile-friendly design, according to Google's ranking factors."
 			},
 			{
 				"image": "googledev.png",
-				"h3_href": "https://developers.google.com/speed/pagespeed/insights/",
-				"h3_text": "Google PageSpeed Insights",
-				"p_text": "Quick tool to test your webpage for performance on all devices."
+				"url": "https://developers.google.com/speed/pagespeed/insights/",
+				"header": "Google PageSpeed Insights",
+				"text": "Quick tool to test your webpage for performance on all devices."
 			},
 			{
 				"image": "nibbler.png",
-				"h3_href": "http://nibbler.silktide.com/en_US",
-				"h3_text": "Nibbler",
-				"p_text": "Website testing tool for 10 key areas including accessibility, SEO, social media and technology."
+				"url": "http://nibbler.silktide.com/en_US",
+				"header": "Nibbler",
+				"text": "Website testing tool for 10 key areas including accessibility, SEO, social media and technology."
 			},
 			{
 				"image": "wave.ico",
-				"h3_href": "http://wave.webaim.org/",
-				"h3_text": "Wave",
-				"p_text": "Web Accessibility Evaluation Tool"
+				"url": "http://wave.webaim.org/",
+				"header": "Wave",
+				"text": "Web Accessibility Evaluation Tool"
 			},
 			{
 				"image": "googleanalytics.png",
-				"h3_href": "http://www.google.com/analytics",
-				"h3_text": "Google Analytics",
-				"p_text": "Get free insights about traffic, visitors and conversions. A must for every website."
+				"url": "http://www.google.com/analytics",
+				"header": "Google Analytics",
+				"text": "Get free insights about traffic, visitors and conversions. A must for every website."
 			},
 			{
 				"image": "googledev.png",
-				"h3_href": "https://www.google.com/webmasters/tools",
-				"h3_text": "Google Webmaster Tools",
-				"p_text": "Google Webmaster Tools"
+				"url": "https://www.google.com/webmasters/tools",
+				"header": "Google Webmaster Tools",
+				"text": "Google Webmaster Tools"
 			},
 			{
 				"image": "namecheap.png",
-				"h3_href": "https://www.namecheap.com/",
-				"h3_text": "Namecheap",
-				"p_text": "Purchase premium and cost-effective domain names, web hosting, and much more."
+				"url": "https://www.namecheap.com/",
+				"header": "Namecheap",
+				"text": "Purchase premium and cost-effective domain names, web hosting, and much more."
 			},
 			{
 				"image": "optimization-guide.png",
-				"h3_href": "https://kinsta.com/learn/page-speed/",
-				"h3_text": "Website Speed Optimization Guide",
-				"p_text": "An excellent guide to optimize your webpage speed. This is something many devs overlook!"
+				"url": "https://kinsta.com/learn/page-speed/",
+				"header": "Website Speed Optimization Guide",
+				"text": "An excellent guide to optimize your webpage speed. This is something many devs overlook!"
 			},
 			{
 				"image": "feedvalidator.ico",
-				"h3_href": "http://www.feedvalidator.org/",
-				"h3_text": "RSS Feed Validator",
-				"p_text": "RSS Feed Validator for Atom, RSS and KML"
+				"url": "http://www.feedvalidator.org/",
+				"header": "RSS Feed Validator",
+				"text": "RSS Feed Validator for Atom, RSS and KML"
 			},
 			{
 				"image": "choosealicense.ico",
-				"h3_href": "https://choosealicense.com/",
-				"h3_text": "Open Source Licenses",
-				"p_text": "Choose an open source license"
+				"url": "https://choosealicense.com/",
+				"header": "Open Source Licenses",
+				"text": "Choose an open source license"
 			},
 			{
 				"image": "optimizilla.png",
-				"h3_href": "http://optimizilla.com/",
-				"h3_text": "Optimizilla",
-				"p_text": "Compress up to 20 JPEG and PNG images while keeping a good level of quality."
+				"url": "http://optimizilla.com/",
+				"header": "Optimizilla",
+				"text": "Compress up to 20 JPEG and PNG images while keeping a good level of quality."
 			},
 			{
 				"image": "periodictable.png",
-				"h3_href": "https://www.newdesigngroup.ca/website-design/web-design-process-infographic/",
-				"h3_text": "Periodic Table of Web Design Process",
-				"p_text": "Great overview of the web design process: from project brief to launching the final version."
+				"url": "https://www.newdesigngroup.ca/website-design/web-design-process-infographic/",
+				"header": "Periodic Table of Web Design Process",
+				"text": "Great overview of the web design process: from project brief to launching the final version."
 			},
 			{
 				"image": "woorank.png",
-				"h3_href": "https://www.woorank.com/",
-				"h3_text": "Woorank",
-				"p_text": "Get a review of your website to address issues and identify opportunities to get ahead of competition."
+				"url": "https://www.woorank.com/",
+				"header": "Woorank",
+				"text": "Get a review of your website to address issues and identify opportunities to get ahead of competition."
 			}
 		]
 	},
 	{
 		"icon": "ion-ios-world",
-		"text": "React",
+		"title": "React",
 		"link": "react",
 		"items": [
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/",
-				"h3_text": "React",
-				"p_text": "A Javascript library for building user interfaces."
+				"url": "https://reactjs.org/",
+				"header": "React",
+				"text": "A Javascript library for building user interfaces."
 			},
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/docs/hello-world.html",
-				"h3_text": "React",
-				"p_text": "React Documentation."
+				"url": "https://reactjs.org/docs/hello-world.html",
+				"header": "React",
+				"text": "React Documentation."
 			},
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/docs/test-renderer.html",
-				"h3_text": "Test Renderer",
-				"p_text": "React Testing without a DOM"
+				"url": "https://reactjs.org/docs/test-renderer.html",
+				"header": "Test Renderer",
+				"text": "React Testing without a DOM"
 			},
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/docs/shallow-renderer.html",
-				"h3_text": "Shallow Renderer",
-				"p_text": "React Testing without a DOM"
+				"url": "https://reactjs.org/docs/shallow-renderer.html",
+				"header": "Shallow Renderer",
+				"text": "React Testing without a DOM"
 			},
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/docs/higher-order-components.html",
-				"h3_text": "Higher-Order Components",
-				"p_text": "A higher-order component (HOC) is an advanced technique in React for reusing component logic."
+				"url": "https://reactjs.org/docs/higher-order-components.html",
+				"header": "Higher-Order Components",
+				"text": "A higher-order component (HOC) is an advanced technique in React for reusing component logic."
 			},
 			{
 				"image": "react.ico",
-				"h3_href": "https://reactjs.org/docs/forms.html",
-				"h3_text": "React Forms",
-				"p_text": "React Forms"
+				"url": "https://reactjs.org/docs/forms.html",
+				"header": "React Forms",
+				"text": "React Forms"
 			},
 			{
 				"image": "react-training.png",
-				"h3_href": "https://reacttraining.com/react-router/web/guides/philosophy",
-				"h3_text": "React Training",
-				"p_text": "React Training / React Router"
+				"url": "https://reacttraining.com/react-router/web/guides/philosophy",
+				"header": "React Training",
+				"text": "React Training / React Router"
 			},
 			{
 				"image": "babel.ico",
-				"h3_href": "https://babeljs.io/",
-				"h3_text": "Babel is a JavaScript compiler",
-				"p_text": "Use next generation JavaScript, today"
+				"url": "https://babeljs.io/",
+				"header": "Babel is a JavaScript compiler",
+				"text": "Use next generation JavaScript, today"
 			},
 			{
 				"image": "jest.ico",
-				"h3_href": "https://facebook.github.io/jest/",
-				"h3_text": "Jest",
-				"p_text": "Delightful JavaScript Testing"
+				"url": "https://facebook.github.io/jest/",
+				"header": "Jest",
+				"text": "Delightful JavaScript Testing"
 			},
 			{
 				"image": "enzyme.ico",
-				"h3_href": "http://airbnb.io/enzyme/",
-				"h3_text": "Enzyme",
-				"p_text": "Enzyme is a JavaScript Testing utility for Reac"
+				"url": "http://airbnb.io/enzyme/",
+				"header": "Enzyme",
+				"text": "Enzyme is a JavaScript Testing utility for Reac"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://facebook.github.io/flux/",
-				"h3_text": "Flux",
-				"p_text": "Application Architecture for Building User Interfaces"
+				"url": "https://facebook.github.io/flux/",
+				"header": "Flux",
+				"text": "Application Architecture for Building User Interfaces"
 			},
 			{
 				"image": "redux.ico",
-				"h3_href": "http://redux.js.org/",
-				"h3_text": "Redux",
-				"p_text": "Redux is a predictable state container for JavaScript apps"
+				"url": "http://redux.js.org/",
+				"header": "Redux",
+				"text": "Redux is a predictable state container for JavaScript apps"
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/redux-thunk",
-				"h3_text": "Redux-Thunk",
-				"p_text": "Thunk middleware for Redux"
+				"url": "https://www.npmjs.com/package/redux-thunk",
+				"header": "Redux-Thunk",
+				"text": "Thunk middleware for Redux"
 			},
 			{
 				"image": "redux-form.png",
-				"h3_href": "https://redux-form.com",
-				"h3_text": "Redux Form",
-				"p_text": "Manage your form state in Redux"
+				"url": "https://redux-form.com",
+				"header": "Redux Form",
+				"text": "Manage your form state in Redux"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://github.com/contra/react-responsive",
-				"h3_text": "React-Responsive",
-				"p_text": "Media queries in react for responsive design"
+				"url": "https://github.com/contra/react-responsive",
+				"header": "React-Responsive",
+				"text": "Media queries in react for responsive design"
 			},
 			{
 				"image": "npmjs.png",
-				"h3_href": "https://www.npmjs.com/package/redux-devtools",
-				"h3_text": "redux-devtools",
-				"p_text": "A live-editing time travel environment for Redux"
+				"url": "https://www.npmjs.com/package/redux-devtools",
+				"header": "redux-devtools",
+				"text": "A live-editing time travel environment for Redux"
 			},
 			{
 				"image": "reactd3.png",
-				"h3_href": "http://www.reactd3.org/",
-				"h3_text": "React D3",
-				"p_text": "A Javascript Library For Building Composable And Declarative Charts"
+				"url": "http://www.reactd3.org/",
+				"header": "React D3",
+				"text": "A Javascript Library For Building Composable And Declarative Charts"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "http://intljusticemission.github.io/react-big-calendar/",
-				"h3_text": "React Calendar",
-				"p_text": "An events calendar component built for React"
+				"url": "http://intljusticemission.github.io/react-big-calendar/",
+				"header": "React Calendar",
+				"text": "An events calendar component built for React"
 			},
 			{
 				"image": "material-io.png",
-				"h3_href": "https://material.io/",
-				"h3_text": "Material Design",
-				"p_text": "A unified system that combines theory, resources, and tools for crafting digital experiences"
+				"url": "https://material.io/",
+				"header": "Material Design",
+				"text": "A unified system that combines theory, resources, and tools for crafting digital experiences"
 			},
 			{
 				"image": "material-io.png",
-				"h3_href": "https://material.io/design/iconography/system-icons.html#design-principles",
-				"h3_text": "Material Design",
-				"p_text": "System Icons"
+				"url": "https://material.io/design/iconography/system-icons.html#design-principles",
+				"header": "Material Design",
+				"text": "System Icons"
 			},
 			{
 				"image": "material-ui.ico",
-				"h3_href": "http://www.material-ui.com/",
-				"h3_text": "Material-UI",
-				"p_text": "A combination of React and Google's Material Design"
+				"url": "http://www.material-ui.com/",
+				"header": "Material-UI",
+				"text": "A combination of React and Google's Material Design"
 			},
 			{
 				"image": "material-ui.ico",
-				"h3_href": "https://material-ui.com/demos/pickers/",
-				"h3_text": "Material-UI Pickers",
-				"p_text": "Pickers provide a simple way to select a single value from a pre-determined set"
+				"url": "https://material-ui.com/demos/pickers/",
+				"header": "Material-UI Pickers",
+				"text": "Pickers provide a simple way to select a single value from a pre-determined set"
 			},
 			{
 				"image": "material-io.png",
-				"h3_href": "https://material.io/tools/icons/?style=baseline",
-				"h3_text": "Material-UI Icons",
-				"p_text": "Material UI icons"
+				"url": "https://material.io/tools/icons/?style=baseline",
+				"header": "Material-UI Icons",
+				"text": "Material UI icons"
 			},
 			{
 				"image": "materialdesignicons.png",
-				"h3_href": "https://materialdesignicons.com/",
-				"h3_text": "Material Design Icons",
-				"p_text": "Community driven Material Design Icons"
+				"url": "https://materialdesignicons.com/",
+				"header": "Material Design Icons",
+				"text": "Community driven Material Design Icons"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://reactpatterns.com/",
-				"h3_text": "React Patterns",
-				"p_text": "React Patterns"
+				"url": "https://reactpatterns.com/",
+				"header": "React Patterns",
+				"text": "React Patterns"
 			},
 			{
 				"image": "github.png",
-				"h3_href": "https://devhints.io/react",
-				"h3_text": "React Cheatsheet",
-				"p_text": "React cheatsheet"
+				"url": "https://devhints.io/react",
+				"header": "React Cheatsheet",
+				"text": "React cheatsheet"
 			},
 			{
 				"image": "styled-components.png",
-				"h3_href": "https://www.styled-components.com/",
-				"h3_text": "Styled Components",
-				"p_text": "Visual primitives for the component age"
+				"url": "https://www.styled-components.com/",
+				"header": "Styled Components",
+				"text": "Visual primitives for the component age"
 			}
 		]
 	},
 	{
 		"icon": "ion-social-sass",
-		"text": "Sass",
+		"title": "Sass",
 		"link": "sass",
 		"items": [
 			{
 				"image": "sass-lang.ico",
-				"h3_href": "http://sass-lang.com/",
-				"h3_text": "SASS",
-				"p_text": "Sass is a CSS extension language."
+				"url": "http://sass-lang.com/",
+				"header": "SASS",
+				"text": "Sass is a CSS extension language."
 			},
 			{
 				"image": "thesassway.png",
-				"h3_href": "http://thesassway.com/",
-				"h3_text": "The Sass Way",
-				"p_text": "Lots of helpful articles"
+				"url": "http://thesassway.com/",
+				"header": "The Sass Way",
+				"text": "Lots of helpful articles"
 			},
 			{
 				"image": "css-tricks-3.png",
-				"h3_href": "https://css-tricks.com/sass-style-guide/",
-				"h3_text": "Sass Style Guide",
-				"p_text": "Sass Guidelines"
+				"url": "https://css-tricks.com/sass-style-guide/",
+				"header": "Sass Style Guide",
+				"text": "Sass Guidelines"
 			},
 			{
 				"image": "zerosixthree.ico",
-				"h3_href": "http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/",
-				"h3_text": "Sass Mixins",
-				"p_text": "Sass Mixins for your toolbox"
+				"url": "http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/",
+				"header": "Sass Mixins",
+				"text": "Sass Mixins for your toolbox"
 			}
 		]
 	},
 	{
 		"icon": "ion-social-html5-outline",
-		"text": "Web Components",
+		"title": "Web Components",
 		"link": "web-components",
 		"items": [
 			{
 				"image": "html5.ico",
-				"h3_href": "https://www.html5rocks.com/en/tutorials/webcomponents/imports/",
-				"h3_text": "HTML5 Imports",
-				"p_text": "Discussion about using Imports"
+				"url": "https://www.html5rocks.com/en/tutorials/webcomponents/imports/",
+				"header": "HTML5 Imports",
+				"text": "Discussion about using Imports"
 			}
 		]
 	}
