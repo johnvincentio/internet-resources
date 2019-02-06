@@ -1,8 +1,8 @@
 
 /* global APP */
 
-APP.db = {
-	"Blogs & Communities": {
+APP.db = [
+	{
 		"icon": "ion-ios-star-outline",
 		"text": "Blogs & Communities",
 		"link": "blogs",
@@ -63,7 +63,7 @@ APP.db = {
 			}
 		]
 	},
-	"Bootstrap": {
+	{
 		"icon": "ion-pinpoint",
 		"text": "Bootstrap",
 		"link": "bootstrap",
@@ -136,7 +136,7 @@ APP.db = {
 			}
 		]
 	},
-	"Chrome": {
+	{
 		"icon": "ion-social-chrome-outline",
 		"text": "Chrome",
 		"link": "chrome",
@@ -227,7 +227,7 @@ APP.db = {
 			}
 		]
 	},
-	"Cloud": {
+	{
 		"icon": "ion-ios-cloud-outline",
 		"text": "Cloud",
 		"link": "cloud",
@@ -252,7 +252,7 @@ APP.db = {
 			}
 		]
 	},
-	"CMS": {
+	{
 		"icon": "ion-bag",
 		"text": "CMS",
 		"link": "cms",
@@ -379,7 +379,7 @@ APP.db = {
 			}
 		]
 	},
-	"Colors and Tools": {
+	{
 		"icon": "ion-ios-color-filter-outline",
 		"text": "Colors and Tools",
 		"link": "colors",
@@ -494,7 +494,7 @@ APP.db = {
 			}
 		]
 	},
-	"Content Delivery Network CDNs": {
+	{
 		"icon": "ion-ios-cloud",
 		"text": "Content Delivery Network CDNs",
 		"link": "cdn",
@@ -531,7 +531,7 @@ APP.db = {
 			}
 		]
 	},
-	"CSS3": {
+	{
 		"icon": "ion-social-css3-outline",
 		"text": "CSS3",
 		"link": "css",
@@ -628,7 +628,7 @@ APP.db = {
 			}
 		]
 	},
-	"Deployment": {
+	{
 		"icon": "ion-funnel",
 		"text": "Deployment",
 		"link": "deployment",
@@ -683,7 +683,7 @@ APP.db = {
 			}
 		]
 	},
-	"Developer Tools": {
+	{
 		"icon": "ion-wrench",
 		"text": "Developer Tools",
 		"link": "developer-tools",
@@ -756,7 +756,7 @@ APP.db = {
 			}
 		]
 	},
-	"Diagram Tools": {
+	{
 		"icon": "ion-settings",
 		"text": "Diagram Tools",
 		"link": "diagram-tools",
@@ -781,7 +781,7 @@ APP.db = {
 			}
 		]
 	},
-	"Documentation Tools": {
+	{
 		"icon": "ion-hammer",
 		"text": "Documentation Tools",
 		"link": "documentation-tools",
@@ -842,7 +842,7 @@ APP.db = {
 			}
 		]
 	},
-	"Editor Tools": {
+	{
 		"icon": "ion-edit",
 		"text": "Editor Tools",
 		"link": "editor-tools",
@@ -885,7 +885,7 @@ APP.db = {
 			}
 		]
 	},
-	"Find Design Inspiration": {
+	{
 		"icon": "ion-ios-lightbulb-outline",
 		"text": "Find Design Inspiration",
 		"link": "design",
@@ -946,7 +946,7 @@ APP.db = {
 			}
 		]
 	},
-	"Fonts and Typography Tools": {
+	{
 		"icon": "ion-hammer",
 		"text": "Fonts and Typography Tools",
 		"link": "fonts",
@@ -989,7 +989,7 @@ APP.db = {
 			}
 		]
 	},
-	"Game Assets": {
+	{
 		"icon": "ion-ios-game-controller-b",
 		"text": "Game Assets",
 		"link": "game-assets",
@@ -1008,7 +1008,7 @@ APP.db = {
 			}
 		]
 	},
-	"HTML5 Resources": {
+	{
 		"icon": "ion-social-html5-outline",
 		"text": "HTML5 Resources",
 		"link": "html",
@@ -1033,7 +1033,7 @@ APP.db = {
 			}
 		]
 	},
-	"Icons and Tools": {
+	{
 		"icon": "ion-ios-paperplane-outline",
 		"text": "Icons and Tools",
 		"link": "icons",
@@ -1106,7 +1106,7 @@ APP.db = {
 			}
 		]
 	},
-	"Images and Videos": {
+	{
 		"icon": "ion-ios-camera-outline",
 		"text": "Images and Videos",
 		"link": "images-videos",
@@ -1203,7 +1203,7 @@ APP.db = {
 			}
 		]
 	},
-	"JavaScript Resources": {
+	{
 		"icon": "ion-social-javascript-outline",
 		"text": "JavaScript Resources",
 		"link": "javascript",
@@ -1282,7 +1282,7 @@ APP.db = {
 			}
 		]
 	},
-	"Node": {
+	{
 		"icon": "ion-social-nodejs",
 		"text": "Node",
 		"link": "node",
@@ -1385,7 +1385,7 @@ APP.db = {
 			}
 		]
 	},
-	"NoSQL": {
+	{
 		"icon": "ion-cube",
 		"text": "NoSQL",
 		"link": "node",
@@ -1416,7 +1416,7 @@ APP.db = {
 			}
 		]
 	},
-	"Node Package Manager": {
+	{
 		"icon": "ion-social-nodejs",
 		"text": "Node Package Manager",
 		"link": "npm",
@@ -1441,7 +1441,7 @@ APP.db = {
 			}
 		]
 	},
-	"Online Coding Sites": {
+	{
 		"icon": "ion-wrench",
 		"text": "Online Coding Sites",
 		"link": "online-coding",
@@ -1472,7 +1472,7 @@ APP.db = {
 			}
 		]
 	},
-	"Planning, Testing, Optimization and Deployment": {
+	{
 		"icon": "ion-ios-loop",
 		"text": "Planning, Testing, Optimization and Deployment",
 		"link": "deployment",
@@ -1593,7 +1593,7 @@ APP.db = {
 			}
 		]
 	},
-	"React": {
+	{
 		"icon": "ion-ios-world",
 		"text": "React",
 		"link": "react",
@@ -1762,7 +1762,7 @@ APP.db = {
 			}
 		]
 	},
-	"Sass": {
+	{
 		"icon": "ion-social-sass",
 		"text": "Sass",
 		"link": "sass",
@@ -1793,7 +1793,7 @@ APP.db = {
 			}
 		]
 	},
-{
+	{
 		"icon": "ion-social-html5-outline",
 		"text": "Web Components",
 		"link": "web-components",
@@ -1806,4 +1806,4 @@ APP.db = {
 			}
 		]
 	}
-};
+];
