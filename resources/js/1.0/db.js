@@ -1118,6 +1118,12 @@ APP.db = [
 				"text": "Huge repository of videos"
 			},
 			{
+				"image": "obsproject.png",
+				"url": "https://obsproject.com/",
+				"header": "OBS Studio",
+				"text": "Free and open source software for video recording and live streaming"
+			},
+			{
 				"image": "vimeo.ico",
 				"url": "https://vimeo.com/",
 				"header": "Vimeo",
@@ -1127,7 +1133,7 @@ APP.db = [
 				"image": "unsplash.svg",
 				"url": "https://unsplash.com/",
 				"header": "Unsplash",
-				"text": "My #1 resource for free high-resolution photos. 10 new photos every 10 days."
+				"text": "Resource for free high-resolution photos, 10 new photos every 10 days"
 			},
 			{
 				"image": "thestocks.jpg",
@@ -1438,6 +1444,12 @@ APP.db = [
 				"url": "https://www.npmjs.com/package/json-server",
 				"header": "JSON Server",
 				"text": "Full fake REST API with zero coding"
+			},
+			{
+				"image": "npmjs.png",
+				"url": "https://www.npmjs.com/package/node-media-server",
+				"header": "Node Media Server",
+				"text": "A RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server"
 			}
 		]
 	},
