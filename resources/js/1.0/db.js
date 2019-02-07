@@ -1450,6 +1450,12 @@ APP.db = [
 				"url": "https://www.npmjs.com/package/node-media-server",
 				"header": "Node Media Server",
 				"text": "A RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server"
+			},
+			{
+				"image": "npmjs.png",
+				"url": "https://www.npmjs.com/package/flv.js",
+				"header": "flv.js",
+				"text": "HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash"
 			}
 		]
 	},
