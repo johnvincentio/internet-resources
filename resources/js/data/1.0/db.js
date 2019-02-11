@@ -1441,6 +1441,12 @@ APP.db = [
 			},
 			{
 				"image": "npmjs.png",
+				"url": "https://www.npmjs.com/package/http-server",
+				"header": "Http Server",
+				"text": "A command-line http server"
+			},
+			{
+				"image": "npmjs.png",
 				"url": "https://www.npmjs.com/package/json-server",
 				"header": "JSON Server",
 				"text": "Full fake REST API with zero coding"
