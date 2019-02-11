@@ -1206,6 +1206,12 @@ APP.db = [
 				"url": "http://lorempixel.com/",
 				"header": "lorempixel",
 				"text": "Placeholder Images for every case. Webdesign or Print."
+			},
+			{
+				"image": "placeholder.png",
+				"url": "https://placeholder.com/",
+				"header": "placeholder",
+				"text": "Placeholder images served"
 			}
 		]
 	},
