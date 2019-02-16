@@ -13,8 +13,9 @@ APP.data = (function() {
 			};
 		},
 		addItem: function(data, image, url, header, text) {
+			var myImage = image ? './resources/images/logos/' + image : './resources/images/default-logo.svg';
 			data.items.push({
-				image: './resources/images/logos/' + image,
+				image: myImage,
 				url: url,
 				header: header,
 				text: text

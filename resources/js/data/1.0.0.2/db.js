@@ -372,8 +372,8 @@ APP.db = [
 				"text": "An elegant, extendable code highlighter"
 			},
 			{
-				"image": "github.png",
-				"url": "https://devhints.io/Jekyll",
+				"image": null,
+				"url": "https://devhints.io/jekyll",
 				"header": "Jekyll cheatsheet",
 				"text": "Jekyll cheatsheet"
 			}
@@ -585,7 +585,7 @@ APP.db = [
 				"text": "PureCSS, A set of small, responsive CSS modules that you can use in every web project."
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://vitalets.github.io/x-editable/",
 				"header": "X-editable",
 				"text": "Create editable elements on your page, includes both popup and inline modes."
@@ -615,7 +615,7 @@ APP.db = [
 				"text": "Choose the right easing function"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "http://cubic-bezier.com/",
 				"header": "Cubic-bezier function generator",
 				"text": "Generate timing animation functions to use in CSS transitions and animations"
@@ -749,7 +749,7 @@ APP.db = [
 				"text": "A page to display compatible browsers from a browserslist string."
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://devhints.io/",
 				"header": "Developer Cheatsheets",
 				"text": "A collection of cheatsheets/"
@@ -811,7 +811,7 @@ APP.db = [
 				"text": "Markdown Cheatsheet"
 			},
 			{
-				"image": "github.png",
+				"image": "assemble.ico",
 				"url": "http://assemble.io/docs/Cheatsheet-Markdown.html",
 				"header": "Markdown Cheatsheet",
 				"text": "Markdown Cheatsheet"
@@ -1001,7 +1001,7 @@ APP.db = [
 				"text": "Huge Collection of Game Assets"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "http://www.superflashbros.net/as3sfxr/",
 				"header": "Sounds",
 				"text": "Create your own customized sounds"
@@ -1026,7 +1026,7 @@ APP.db = [
 				"text": "Super useful reference, gives you HTML entitiy name, numeric code, hex code and ISO code."
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://vitalets.github.io/x-editable/",
 				"header": "X-editable",
 				"text": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery."
@@ -1275,7 +1275,7 @@ APP.db = [
 				"text": "Check out all the new ES2015/ES6 features supported by the most popular browsers."
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "http://usejsdoc.org/",
 				"header": "@use JSDoc",
 				"text": "Tool for documenting Javascript."
@@ -1287,7 +1287,7 @@ APP.db = [
 				"text": "Parse, validate, manipulate, and display dates and times"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "http://bigocheatsheet.com/",
 				"header": "Know Thy Complexities",
 				"text": "Big-O complexities of common algorithms used in Computer Science."
@@ -1415,7 +1415,7 @@ APP.db = [
 				"text": "MongoDB GUI"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "http://mongoosejs.com/",
 				"header": "Mongoose",
 				"text": "Elegant mongodb object modeling for node.js"
@@ -1689,7 +1689,7 @@ APP.db = [
 				"text": "Enzyme is a JavaScript Testing utility for Reac"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://facebook.github.io/flux/",
 				"header": "Flux",
 				"text": "Application Architecture for Building User Interfaces"
@@ -1773,13 +1773,13 @@ APP.db = [
 				"text": "Community driven Material Design Icons"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://reactpatterns.com/",
 				"header": "React Patterns",
 				"text": "React Patterns"
 			},
 			{
-				"image": "github.png",
+				"image": null,
 				"url": "https://devhints.io/react",
 				"header": "React Cheatsheet",
 				"text": "React cheatsheet"
@@ -1833,6 +1833,43 @@ APP.db = [
 				"url": "https://www.html5rocks.com/en/tutorials/webcomponents/imports/",
 				"header": "HTML5 Imports",
 				"text": "Discussion about using Imports"
+			}
+		]
+	},
+	{
+		"icon": "ion-ios-paw-outline",
+		"title": "Other",
+		"link": "other",
+		"items": [
+			{
+				"image": "producthunt.ico",
+				"url": "https://www.producthunt.com/",
+				"header": "Product Hunt",
+				"text": "Product Hunt surfaces the best new products, every day"
+			},
+			{
+				"image": null,
+				"url": "https://www.stacktrends.io/",
+				"header": "StackTrends",
+				"text": "Data-driven software engineering analytics"
+			},
+			{
+				"image": "interviewing.png",
+				"url": "https://interviewing.io/",
+				"header": "interviewing.io",
+				"text": "Free, anonymous technical interview practice with engineers from Google, Facebook, and more"
+			},
+			{
+				"image": "pramp.ico",
+				"url": "https://www.pramp.com",
+				"header": "pramp.com",
+				"text": "Interviewing: the most profitable skill you can learn"
+			},
+			{
+				"image": null,
+				"url": "https://chingu.io/",
+				"header": "Chingu",
+				"text": "Chingu is a global collaboration platform and coding-cohort generator."
 			}
 		]
 	}
