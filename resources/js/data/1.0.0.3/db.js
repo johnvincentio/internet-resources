@@ -312,7 +312,7 @@ APP.db = [
 				"text": "Jekyll Themes"
 			},
 			{
-				"image": "aaaa-no-favicon.png",
+				"image": null,
 				"url": "http://www.yaml.org/start.html",
 				"header": "Yaml",
 				"text": "YAML is a human friendly data serialization standard for all programming languages."
