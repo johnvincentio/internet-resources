@@ -1869,7 +1869,19 @@ APP.db = [
 				"image": null,
 				"url": "https://chingu.io/",
 				"header": "Chingu",
-				"text": "Chingu is a global collaboration platform and coding-cohort generator."
+				"text": "Chingu is a global collaboration platform and coding-cohort generator"
+			},
+			{
+				"image": null,
+				"url": "https://connect.clearbit.com/",
+				"header": "Clearbit",
+				"text": "Clearbit Connect makes it easy to get in touch with anyone—right from your inbox"
+			},
+			{
+				"image": "hunter.ico",
+				"url": "https://hunter.io/",
+				"header": "Connect with Anyone",
+				"text": "Hunter lets you find email addresses in seconds and connect with the people that matter for your business"
 			}
 		]
 	}
