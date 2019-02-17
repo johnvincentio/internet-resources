@@ -1212,6 +1212,18 @@ APP.db = [
 				"url": "https://placeholder.com/",
 				"header": "placeholder",
 				"text": "Placeholder images served"
+			},
+			{
+				"image": "freeimages.ico",
+				"url": "https://www.freeimages.com/",
+				"header": "FreeImages",
+				"text": "Find and download free stock photos - all free for personal and commercial use."
+			},
+			{
+				"image": "freerange.png",
+				"url": "https://freerangestock.com/",
+				"header": "FreeRange",
+				"text": "Great photos. Totally free."
 			}
 		]
 	},
@@ -1499,6 +1511,12 @@ APP.db = [
 				"url": "https://glitch.com",
 				"header": "Glitch",
 				"text": "Glitch is a Cloud based Node environment"
+			},
+			{
+				"image": "jsfiddle.png",
+				"url": "https://jsfiddle.net/",
+				"header": "JSFiddle",
+				"text": "Live coding"
 			}
 		]
 	},
