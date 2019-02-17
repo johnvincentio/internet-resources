@@ -1220,7 +1220,7 @@ APP.db = [
 				"text": "Find and download free stock photos - all free for personal and commercial use."
 			},
 			{
-				"image": "freerangestock.ico",
+				"image": null,
 				"url": "https://freerangestock.com/",
 				"header": "FreeRangeStock",
 				"text": "Great photos. Totally free."
