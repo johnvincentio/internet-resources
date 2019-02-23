@@ -1030,6 +1030,12 @@ APP.db = [
 				"url": "https://vitalets.github.io/x-editable/",
 				"header": "X-editable",
 				"text": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery."
+			},
+			{
+				"image": "html-css-js.png",
+				"url": "https://html-css-js.com/html/",
+				"header": "Html, Css, JS",
+				"text": "Free Html, Css, JS Tools and Resources"
 			}
 		]
 	},
