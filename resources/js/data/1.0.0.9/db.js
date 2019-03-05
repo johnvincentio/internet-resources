@@ -1412,6 +1412,12 @@ APP.db = [
 				"url": "https://www.npmjs.com/package/joi",
 				"header": "Joi",
 				"text": "Object schema description language and validator for JavaScript objects."
+			},
+			{
+				"image": "graphql.png",
+				"url": "https://graphql.org/",
+				"header": "GraphQL",
+				"text": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data"
 			}
 		]
 	},
