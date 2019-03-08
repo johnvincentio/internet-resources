@@ -62,7 +62,7 @@ APP.db = [
 				"text": "A community of people in design and tech, to discuss and share interesting things in the industry."
 			},
 			{
-				"image": "thoughtworks.ico",
+				"image": "thoughtworks.png",
 				"url": "https://www.thoughtworks.com/radar",
 				"header": "ThoughtWorks Technology Radar",
 				"text": "Insights into the technology and trends shaping the future."
