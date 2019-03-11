@@ -1308,13 +1308,19 @@ APP.db = [
 				"image": "momentjs.png",
 				"url": "https://momentjs.com/",
 				"header": "Moment.js",
-				"text": "Parse, validate, manipulate, and display dates and times"
+				"text": "Parse, validate, manipulate, and display dates and times."
 			},
 			{
 				"image": null,
 				"url": "http://bigocheatsheet.com/",
 				"header": "Know Thy Complexities",
 				"text": "Big-O complexities of common algorithms used in Computer Science."
+			},
+			{
+				"image": "typescript.ico",
+				"url": "https://www.typescriptlang.org/",
+				"header": "TypeScript",
+				"text": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
 			}
 		]
 	},
