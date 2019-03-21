@@ -759,7 +759,13 @@ APP.db = [
 				"url": "https://devhints.io/",
 				"header": "Developer Cheatsheets",
 				"text": "A collection of cheatsheets/"
-			}
+			},
+			{
+				"image": "homebrew.png",
+				"url": "https://brew.sh/",
+				"header": "Homebrew",
+				"text": "The missing package manager for macOS"
+			},
 		]
 	},
 	{
