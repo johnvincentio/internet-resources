@@ -1882,7 +1882,7 @@ APP.db = [
 				"text": "Sass Mixins for your toolbox"
 			},
 			{
-				"image": "sassmeister.svg",
+				"image": "sassmeister.png",
 				"url": "https://www.sassmeister.com/",
 				"header": "SassMeister",
 				"text": "The sassiest way to play with Sass, Compass, & LibSass"
