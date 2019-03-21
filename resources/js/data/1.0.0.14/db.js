@@ -766,6 +766,18 @@ APP.db = [
 				"header": "Homebrew",
 				"text": "The missing package manager for macOS"
 			},
+			{
+				"image": "grunt.png",
+				"url": "https://gruntjs.com/",
+				"header": "Grunt",
+				"text": "The JavaScript Task Runner"
+			},
+			{
+				"image": "yarn.ico",
+				"url": "https://yarnpkg.com/en/",
+				"header": "Yarn",
+				"text": "Dependency Management"
+			},
 		]
 	},
 	{
@@ -1868,6 +1880,18 @@ APP.db = [
 				"url": "http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/",
 				"header": "Sass Mixins",
 				"text": "Sass Mixins for your toolbox"
+			},
+			{
+				"image": "sassmeister.svg",
+				"url": "https://www.sassmeister.com/",
+				"header": "SassMeister",
+				"text": "The sassiest way to play with Sass, Compass, & LibSass"
+			},
+			{
+				"image": "less.ico",
+				"url": "http://lesscss.org/",
+				"header": "Less",
+				"text": "It's CSS, with just a little more"
 			}
 		]
 	},
