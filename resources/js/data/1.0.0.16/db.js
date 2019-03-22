@@ -778,6 +778,12 @@ APP.db = [
 				"header": "Yarn",
 				"text": "Dependency Management"
 			},
+			{
+				"image": "gradle.png",
+				"url": "https://gradle.org/",
+				"header": "Gradle",
+				"text": "Gradle Build Tool"
+			}
 		]
 	},
 	{
