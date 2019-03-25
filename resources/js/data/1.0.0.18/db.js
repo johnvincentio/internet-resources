@@ -1460,6 +1460,12 @@ APP.db = [
 				"url": "https://graphql.org/",
 				"header": "GraphQL",
 				"text": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data"
+			},
+			{
+				"image": "redis.png",
+				"url": "https://redis.io/",
+				"header": "Redis",
+				"text": "Redis is an in-memory data structure store, used as a database, cache and message broker"
 			}
 		]
 	},
