@@ -233,7 +233,7 @@ APP.db = [
 			},
 			{
 				"image": "chrome-web-store.png",
-				"url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd",
+				"url": "https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en-US",
 				"header": "ChromeVox",
 				"text": "The ChromeVox screen reader is an extension to Chrome that brings the speed, versatility, and security of Chrome to visually impaired users"
 			}
