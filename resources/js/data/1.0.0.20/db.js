@@ -230,6 +230,12 @@ APP.db = [
 				"url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd",
 				"header": "Redux DevTools",
 				"text": "Redux DevTools for debugging application state changes"
+			},
+			{
+				"image": "chrome-web-store.png",
+				"url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd",
+				"header": "ChromeVox",
+				"text": "The ChromeVox screen reader is an extension to Chrome that brings the speed, versatility, and security of Chrome to visually impaired users"
 			}
 		]
 	},
