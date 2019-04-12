@@ -1972,6 +1972,12 @@ APP.db = [
 				"url": "https://hunter.io/",
 				"header": "Connect with Anyone",
 				"text": "Hunter lets you find email addresses in seconds and connect with the people that matter for your business"
+			},
+			{
+				"image": "electron.ico",
+				"url": "https://electronjs.org/",
+				"header": "Electron",
+				"text": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
 			}
 		]
 	}
