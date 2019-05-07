@@ -1583,6 +1583,12 @@ APP.db = [
 				"url": "https://jsfiddle.net/",
 				"header": "JSFiddle",
 				"text": "Live coding"
+			},
+			{
+				"image": "repl.ico",
+				"url": "https://repl.it/languages",
+				"header": "Repl.it",
+				"text": "Live coding"
 			}
 		]
 	},
