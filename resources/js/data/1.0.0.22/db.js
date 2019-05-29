@@ -637,6 +637,12 @@ APP.db = [
 				"url": "https://semantic-ui.com/",
 				"header": "Semantic UI",
 				"text": "Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML"
+			},
+			{
+				"image": "cssmatic.png",
+				"url": "https://www.cssmatic.com/",
+				"header": "CSSmatic",
+				"text": "The ultimate CSS tools for web designers"
 			}
 		]
 	},
