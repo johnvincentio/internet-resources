@@ -1885,6 +1885,12 @@ APP.db = [
 				"url": "https://www.styled-components.com/",
 				"header": "Styled Components",
 				"text": "Visual primitives for the component age"
+			},
+			{
+				"image": "jsonplaceholder.ico",
+				"url": "https://jsonplaceholder.typicode.com/",
+				"header": "JSONPlaceholder",
+				"text": "Fake Online REST API for Testing and Prototyping "
 			}
 		]
 	},
