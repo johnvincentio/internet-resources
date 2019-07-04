@@ -762,15 +762,21 @@ APP.db = [
 			},
 			{
 				"image": "github.png",
+				"url": "https://github.com/browserslist/browserslist",
+				"header": "BrowsersList",
+				"text": "Share target browsers between different front-end tools"
+			},
+			{
+				"image": "github.png",
 				"url": "https://browserl.ist/",
 				"header": "browserl.ist",
-				"text": "A page to display compatible browsers from a browserslist string."
+				"text": "A page to display compatible browsers from a browserslist string"
 			},
 			{
 				"image": null,
 				"url": "https://devhints.io/",
 				"header": "Developer Cheatsheets",
-				"text": "A collection of cheatsheets/"
+				"text": "A collection of cheatsheets"
 			},
 			{
 				"image": "homebrew.png",
@@ -801,6 +807,12 @@ APP.db = [
 				"url": "https://macdown.uranusjr.com/",
 				"header": "MacDown",
 				"text": "Open source Markdown editor for macOS"
+			},
+			{
+				"image": "github.png",
+				"url": "https://githut.info/",
+				"header": "GitHut",
+				"text": "Discover Languages in Github"
 			}
 		]
 	},
