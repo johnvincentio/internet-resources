@@ -643,6 +643,12 @@ APP.db = [
 				"url": "https://www.cssmatic.com/",
 				"header": "CSSmatic",
 				"text": "The ultimate CSS tools for web designers"
+			},
+			{
+				"image": "css-cheat-sheet.png",
+				"url": "https://websitesetup.org/css3-cheat-sheet/",
+				"header": "CSS Cheat Sheet",
+				"text": "A CSS Cheat Sheet"
 			}
 		]
 	},
