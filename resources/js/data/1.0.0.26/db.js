@@ -1908,7 +1908,13 @@ APP.db = [
 				"image": "jsonplaceholder.ico",
 				"url": "https://jsonplaceholder.typicode.com/",
 				"header": "JSONPlaceholder",
-				"text": "Fake Online REST API for Testing and Prototyping "
+				"text": "Fake Online REST API for Testing and Prototyping"
+			},
+			{
+				"image": "gatsby.png",
+				"url": "https://www.gatsbyjs.org/",
+				"header": "Gatsby",
+				"text": "Gatsby is a free and open source framework based on React"
 			}
 		]
 	},
