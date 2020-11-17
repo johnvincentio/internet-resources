@@ -819,6 +819,12 @@ APP.db = [
 				"url": "https://githut.info/",
 				"header": "GitHut",
 				"text": "Discover Languages in Github"
+			},
+			{
+				"image": "",
+				"url": "https://lighthouse-ci.appspot.com/try",
+				"header": "Lighthouse",
+				"text": "Lighthouse is an automated tool for improving the quality of web pages"
 			}
 		]
 	},
@@ -1915,6 +1921,12 @@ APP.db = [
 				"url": "https://www.gatsbyjs.org/",
 				"header": "Gatsby",
 				"text": "Gatsby is a free and open source framework based on React"
+			},
+			{
+				"image": "nextjs.ico",
+				"url": "https://nextjs.org/",
+				"header": "Nextjs",
+				"text": "Build static and dynamic websites and web applications with Nextjs"
 			}
 		]
 	},
