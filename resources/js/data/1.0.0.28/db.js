@@ -1713,7 +1713,7 @@ APP.db = [
 			},
 			{
 				"image": "feedvalidator.ico",
-				"url": "http://www.feedvalidator.org/",
+				"url": "https://validator.w3.org/feed/",
 				"header": "RSS Feed Validator",
 				"text": "RSS Feed Validator for Atom, RSS and KML"
 			},
