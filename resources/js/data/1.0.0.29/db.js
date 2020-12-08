@@ -1181,6 +1181,12 @@ APP.db = [
 				"url": "https://icomoon.io/",
 				"header": "IcoMoon",
 				"text": "Pixel Perfect Icon Solutions."
+			},
+			{
+				"image": "emojipedia.png",
+				"url": "https://emojipedia.org/",
+				"header": "Emojipedia",
+				"text": "Search for Emojis."
 			}
 		]
 	},

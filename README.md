@@ -14,5 +14,7 @@
 Use images/logos/codesandbox.svg as a guide.
 
 
-based on: http://codingheroes.io/resources/
+## Basis
+
+Based on: http://codingheroes.io/resources/
 
