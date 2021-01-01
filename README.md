@@ -91,6 +91,33 @@ Rename to the name of the site, for example `mockaroo.svg`
 
 ## SVG images
 
+These can be a real pain. They will need to be scaled and positioned.
+
+For example, see
+
+```
+/Users/jv/Desktop/MyDevelopment/github/website/internet-resources/resources/images/logos/mockaroo.svg
+```
+
+Notice
+
+```
+svg width="100%" height="100%" viewBox="0 0 400 400"
+```
+
+which states
+
+* size will be determined by css or html tag.
+* viewbox states the size of 'slate'
+
+```
+<g transform="translate(0, 100) scale(0.95)" >
+```
+
+* set origin `+100` in the y direction and scale to `0.95`
+
+
+
 
 ## Notes
 
