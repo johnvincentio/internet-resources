@@ -63,12 +63,19 @@ APP.views = (function() {
 			return template;
 		},
 		renderItem: function(item) {
-			var template =
+			var template = item.svg ? 
 				'<div class="col-4 resource">\
-                <img class="resource_logo" src="{{1}}">\
-                <h3 class="resource_heading"><a target="_blank" class="resource_link" href="{{2}}">{{3}}</a></h3>\
-                <p class="resource_text">{{4}}</p>\
-            </div>';
+					<object class="resource_logo_svg" height="40px" data="{{1}}" type="image/svg+xml"></object>\
+					<h3 class="resource_heading"><a target="_blank" class="resource_link" href="{{2}}">{{3}}</a></h3>\
+					<p class="resource_text">{{4}}</p>\
+				</div>'
+				:
+				'<div class="col-4 resource">\
+					<img class="resource_logo" src="{{1}}">\
+					<h3 class="resource_heading"><a target="_blank" class="resource_link" href="{{2}}">{{3}}</a></h3>\
+					<p class="resource_text">{{4}}</p>\
+				</div>'
+
 			return template
 				.replace('{{1}}', item.image)
 				.replace('{{2}}', item.url)

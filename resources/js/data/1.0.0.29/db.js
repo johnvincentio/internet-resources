@@ -825,6 +825,12 @@ APP.db = [
 				"url": "https://lighthouse-ci.appspot.com/try",
 				"header": "Lighthouse",
 				"text": "Lighthouse is an automated tool for improving the quality of web pages"
+			},
+			{
+				"image": "mockaroo.svg",
+				"url": "https://www.mockaroo.com/",
+				"header": "Mockaroo",
+				"text": "Realistic Data Generator"
 			}
 		]
 	},
