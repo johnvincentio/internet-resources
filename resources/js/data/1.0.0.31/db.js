@@ -1314,6 +1314,12 @@ APP.db = [
 				"url": "https://freerangestock.com/",
 				"header": "FreeRangeStock",
 				"text": "Great photos. Totally free."
+			},
+			{
+				"image": "remove.bg.ico",
+				"url": "https://www.remove.bg/",
+				"header": "Removebg",
+				"text": "Remove Image Background"
 			}
 		]
 	},
