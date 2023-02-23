@@ -1320,6 +1320,12 @@ APP.db = [
 				"url": "https://www.remove.bg/",
 				"header": "Removebg",
 				"text": "Remove Image Background"
+			},
+			{
+				"image": "websiteplanet.png",
+				"url": "https://www.websiteplanet.com/blog/best-websites-for-free-commercial-images/",
+				"header": "Free Stock Images",
+				"text": "Commercial Use Free Stock Images"
 			}
 		]
 	},
