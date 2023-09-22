@@ -3,6 +3,34 @@
 
 APP.db = [
 	{
+		"icon": "ion-ios-world-outline",
+		"title": "AI",
+		"link": "ai",
+		"items": [
+			{
+				"image": "halai.ico",
+				"url": "https://www.halai.johnvincent.io/",
+				"header": "HalAI",
+				"text": "AI Chat application by John Vincent supporting speech and text."
+			},
+			{
+				"image": "openai.svg",
+				"url": "https://openai.com/",
+				"header": "OpenAI",
+				"text": "Creating safe AGI that benefits all of humanity."
+			},
+			{
+				"image": "elevenlabs.png",
+				"url": "https://elevenlabs.io/",
+				"header": "ElevenLabs",
+				"text": "Unleash the power of our cutting-edge technology to generate realistic, captivating speech in a wide range of languages."
+			},		
+			
+
+
+		]
+	},
+	{
 		"icon": "ion-ios-star-outline",
 		"title": "Blogs & Communities",
 		"link": "blogs",
@@ -1608,6 +1636,12 @@ APP.db = [
 		"title": "Online Coding Sites",
 		"link": "online-coding",
 		"items": [
+			{
+				"image": "mermaid.svg",
+				"url": "	https://mermaid.live/",
+				"header": "Mermaid Live Editor",
+				"text": "Build and edit your Mermaid Diagrams"
+			},
 			{
 				"image": "codesandbox.svg",
 				"url": "https://codesandbox.io",
