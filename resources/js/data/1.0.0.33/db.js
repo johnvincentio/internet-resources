@@ -23,11 +23,8 @@ APP.db = [
 				"image": "elevenlabs.png",
 				"url": "https://elevenlabs.io/",
 				"header": "ElevenLabs",
-				"text": "Unleash the power of our cutting-edge technology to generate realistic, captivating speech in a wide range of languages."
-			},		
-			
-
-
+				"text": "Unleash the power of cutting-edge technology to generate realistic, captivating speech in a wide range of languages."
+			}
 		]
 	},
 	{
